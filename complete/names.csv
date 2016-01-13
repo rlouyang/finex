@@ -1,0 +1,1765 @@
+DBA,DB Agriculture Fund,Agricultural Commodities
+RJA,Rogers Intl Commodity Agric ETN,Agricultural Commodities
+JO,Dow Jones-UBS Coffee ETN,Agricultural Commodities
+JJG,DJ-UBS Grains Total Return Sub-Index ETN,Agricultural Commodities
+CORN,Corn Fund,Agricultural Commodities
+SGG,Dow Jones-UBS Sugar Subindex Total Return ETN,Agricultural Commodities
+JJA,DJ-UBS Agriculture Subindex Total Return ETN,Agricultural Commodities
+WEAT,Wheat Fund,Agricultural Commodities
+NIB,Dow Jones-UBS Cocoa Total Return Sub-Index ETN,Agricultural Commodities
+COW,DJ-UBS Livestock Total Return Sub-Index ETN,Agricultural Commodities
+FUD,E-TRACS UBS Bloomberg CMCI Food ETN,Agricultural Commodities
+BAL,Dow Jones-UBS Cotton Total Return Sub-Index ETN,Agricultural Commodities
+UAG,E-TRACS UBS Bloomberg CMCI Agric ETN,Agricultural Commodities
+CHOC,Pure Beta Cocoa ETN,Agricultural Commodities
+SOYB,Soybean Fund,Agricultural Commodities
+GRU,MLCX Grains Index TR ETN,Agricultural Commodities
+CAFE,Pure Beta Coffee ETN,Agricultural Commodities
+UBC,E-TRACS UBS Bloomberg CMCI Livestock ETN,Agricultural Commodities
+CANE,Sugar Fund,Agricultural Commodities
+JJS,Dow Jones-UBS Softs Total Return Sub-Index ETN,Agricultural Commodities
+CTNN,Pure Beta Cotton ETN,Agricultural Commodities
+USAG,United States Agriculture Index Fund,Agricultural Commodities
+AGF,DB Agriculture Long ETN,Agricultural Commodities
+WEET,Pure Beta Grains ETN,Agricultural Commodities
+SGAR,Pure Beta Sugar ETN,Agricultural Commodities
+TAGS,Agricultural Fund,Agricultural Commodities
+DIRT,Pure Beta Agriculture ETN,Agricultural Commodities
+LSTK,Pure Beta Livestock ETN,Agricultural Commodities
+GRWN,Pure Beta Softs ETN,Agricultural Commodities
+VTI,Total Stock Market ETF,All Cap Equities
+USMV,MSCI USA Minimum Volatility ETF,All Cap Equities
+IWV,iShares Russell 3000 ETF,All Cap Equities
+SCHB,Schwab U.S. Broad Market ETF,All Cap Equities
+SCHD,Schwab US Dividend Equity ETF,All Cap Equities
+ITOT,Core S&P Total U.S. Stock Market ETF,All Cap Equities
+PKW,Buyback Achievers,All Cap Equities
+PDP,DWA Technical Leaders Portfolio,All Cap Equities
+QUAL,iShares MSCI USA Quality Factor ETF,All Cap Equities
+MTUM,MSCI USA Momentum Fund,All Cap Equities
+IYY,iShares Dow Jones U.S. ETF,All Cap Equities
+FPX,IPOX-100 Index Fund,All Cap Equities
+MOAT,Market Vectors Wide Moat Research ETF,All Cap Equities
+TILT,Morningstar US Market Factor Tilt Index Fund,All Cap Equities
+QDF,FlexShares Quality Dividend Index Fund,All Cap Equities
+ONEQ,Nasdaq Composite Index Tracking Stock,All Cap Equities
+PEY,High Yield Dividend Achievers,All Cap Equities
+IWZ,iShares Russell 3000 Growth ETF,All Cap Equities
+VUSE,Core U.S. Equity Fund,All Cap Equities
+CSD,Spin-Off ETF ,All Cap Equities
+RYJ,Raymond James SB-1 Equity ETF ,All Cap Equities
+TTFS,TrimTabs Float Shrink ETF,All Cap Equities
+VTHR,Russell 3000 ETF,All Cap Equities
+BFOR,Barron's 400 ETF,All Cap Equities
+SIZE,MSCI USA Size Factor ETF,All Cap Equities
+FNDB,Schwab Fundamental U.S. Broad Market Index ETF,All Cap Equities
+QDEF,Northern Trust Quality Dividend Defensive Index,All Cap Equities
+GURU,Top Guru Holdings Index ETF,All Cap Equities
+PWC,XTF: Dynamic Market Portfolio,All Cap Equities
+NFO,Insider Sentiment ETF ,All Cap Equities
+FAB,Multi Cap Value AlphaDEX Fund,All Cap Equities
+KNOW,All Cap Insider Sentiment Shares,All Cap Equities
+FAD,Multi Cap Growth AlphaDEX Fund,All Cap Equities
+TUTT,Tuttle Tactical Management U.S. Core ETF,All Cap Equities
+QDYN,FlexShares Quality Dividend Dynamic Index Fund,All Cap Equities
+DWAQ,PowerShares DWA NASDAQ Momentum Portfolio,All Cap Equities
+FVL,Value Line 100 ETF,All Cap Equities
+EUSA,iShares MSCI USA ETF,All Cap Equities
+IPO,Renaissance IPO ETF,All Cap Equities
+WMW,Morningstar Wide Moat Focus ETN,All Cap Equities
+MMTM,SPDR S&P 1500 Momentum Tilt ETF,All Cap Equities
+NASH,Nashville Area ETF,All Cap Equities
+QINC,RBA Quality Income ETF,All Cap Equities
+TUSA,First Trust Total US Market AlphaDEX ETF,All Cap Equities
+HECO,EcoLogical Strategy ETF,All Cap Equities
+RWV,Navallier Overall A-100 Fund,All Cap Equities
+HUSE,U.S. Equity Rotation Strategy ETF,All Cap Equities
+TOFR,Stock Split Index Fund,All Cap Equities
+VLU,SPDR S&P 1500 Value Tilt ETF,All Cap Equities
+ACTX,Guru Activist Index ETF,All Cap Equities
+CNTR,Contrarian Opportunities Portfolio,All Cap Equities
+RORO,SPDR SSgA Risk Aware ETF,All Cap Equities
+TAN,Solar ETF ,Alternative Energy Equities
+PBW,WilderHill Clean Energy Portfolio,Alternative Energy Equities
+GEX,Market Vectors Global Alternative Energy ETF,Alternative Energy Equities
+ICLN,S&P Global Clean Energy Index Fund,Alternative Energy Equities
+PZD,Cleantech Portfolio,Alternative Energy Equities
+QCLN,NASDAQ Clean Edge Green Energy Index Fund,Alternative Energy Equities
+PBD,Global Clean Energy Portfolio,Alternative Energy Equities
+NLR,Market Vectors Uranium+Nuclear Energy ETF,Alternative Energy Equities
+FAN,ISE Global Wind Energy Index Fund,Alternative Energy Equities
+PUW,WilderHill Progressive Energy Portfolio,Alternative Energy Equities
+KWT,Market Vectors Solar Energy ETF,Alternative Energy Equities
+YLCO,YieldCo Index ETF,Alternative Energy Equities
+EWY,iShares MSCI South Korea Capped ETF,Asia Pacific Equities
+EWT,iShares MSCI Taiwan ETF,Asia Pacific Equities
+VPL,FTSE Pacific ETF,Asia Pacific Equities
+AAXJ,MSCI All Country Asia ex Japan Index Fund,Asia Pacific Equities
+EPP,iShares MSCI Pacific ex Japan ETF,Asia Pacific Equities
+EWA,MSCI Australia ETF,Asia Pacific Equities
+EWS,iShares MSCI Singapore ETF,Asia Pacific Equities
+IPAC,Core MSCI Pacific ETF,Asia Pacific Equities
+GMF,SPDR S&P Emerging Asia Pacific ETF,Asia Pacific Equities
+FHK,Hong Kong AlphaDEX Fund,Asia Pacific Equities
+DBKO,db X-trackers MSCI South Korea Hedged Equity Fund,Asia Pacific Equities
+ENZL,iShares MSCI New Zealand Capped ETF,Asia Pacific Equities
+AXJL,Asia Pacific ex-Japan Fund,Asia Pacific Equities
+DVYA,iShares Asia/Pacific Dividend ETF,Asia Pacific Equities
+FPA,Asia Pacific Ex-Japan AlphaDEX Fund,Asia Pacific Equities
+AUSE,Australia Dividend Fund,Asia Pacific Equities
+JHDG,Japan Hedged Dividend Growth Fund,Asia Pacific Equities
+ADRA,BLDRS Asia 50 ADR Index Fund,Asia Pacific Equities
+DXKW,Korea Hedged Equity Fund,Asia Pacific Equities
+PAF,FTSE RAFI Asia Pacific ex-Japan Portfolio,Asia Pacific Equities
+DBAP,MSCI AC Asia Pacific ex Japan Hedged Equity Fund,Asia Pacific Equities
+FTW,Taiwan AlphaDEX Fund,Asia Pacific Equities
+QAUS,SPDR MSCI Australia Quality Mix ETF,Asia Pacific Equities
+QTWN,MSCI Taiwan Quality Mix ETF,Asia Pacific Equities
+AXJV,iShares MSCI Asia ex Japan Minimum Volatility ETF,Asia Pacific Equities
+HKOR,Korea KOSPI 200 ETF,Asia Pacific Equities
+KROO,IQ Australia Small Cap ETF,Asia Pacific Equities
+FKO,South Korea AlphaDEX Fund,Asia Pacific Equities
+DBAU,MSCI Australia Hedged Equity ETF,Asia Pacific Equities
+OASI,O'Shares FTSE Asia Pacific Quality Dividend ETF,Asia Pacific Equities
+QKOR,MSCI South Korea Quality Mix ETF,Asia Pacific Equities
+OAPH,O'Shares FTSE Asia Pacific Quality Dividend Hedged ETF,Asia Pacific Equities
+HEWY,Currency Hedged MSCI South Korea ETF,Asia Pacific Equities
+HAUD,Currency Hedged MSCI Australia ETF,Asia Pacific Equities
+SCIX,Scientific Beta Asia ex-Japan ETF,Asia Pacific Equities
+FAUS,Australia AlphaDEX Fund,Asia Pacific Equities
+ITB,iShares U.S. Home Construction ETF,Building & Construction 
+XHB,SPDR Homebuilders ETF,Building & Construction 
+PKB,Dynamic Build & Construction,Building & Construction 
+HOMX,ETRACS ISE Exclusively Homebuilders ETN,Building & Construction 
+FLM,ISE Global Engineering and Construction Index Fund,Building & Construction 
+CMF,iShares California AMT-Free Muni Bond ETF,California Munis
+PWZ,Insured CA Municipal Bond Portfolio,California Munis
+CXA,SPDR Barclays California Municipal Bond ETF,California Munis
+FXI,iShares China Large-Cap ETF,China Equities
+EWH,iShares MSCI Hong Kong ETF,China Equities
+MCHI,iShares MSCI China ETF,China Equities
+GXC,SPDR S&P China ETF,China Equities
+ASHR,db X-trackers Harvest CSI 300 China A-Shares Fund,China Equities
+FNI,ISE Chindia Index Fund,China Equities
+PGJ,Golden Dragon Halter USX China Portfolio,China Equities
+KWEB,CSI China Internet ETF,China Equities
+HAO,China Small Cap ETF ,China Equities
+PEK,Market Vectors China ETF,China Equities
+CNXT,Market Vectors ChinaAMC SME-ChiNext ETF ,China Equities
+ASHS,db X-trackers Harvest CSI 500 China-A Shares Small Cap Fund,China Equities
+YAO,China All-Cap ETF ,China Equities
+ECNS,iShares MSCI China Small-Cap ETF,China Equities
+CN,Harvest MSCI All China Equity Fund,China Equities
+CXSE,China ex-State-Owned Enterprises Fund,China Equities
+FCA,China AlphaDEX Fund,China Equities
+KBA,Bosera MSCI China A ETF,China Equities
+AFTY,FTSE China A50 ETF,China Equities
+CHNA,China A-Share Portfolio ,China Equities
+KFYP,CSI China Five Year Plan ETF,China Equities
+XINA,MSCI China A Shares IMI ETF,China Equities
+DBC,DB Commodity Index Tracking Fund,Commodities
+DJP,Dow Jones-UBS Commodity Index TR ETN,Commodities
+GSG,GSCI Commodity-Indexed Trust Fund,Commodities
+USCI,United States Commodity Index Fund,Commodities
+RJI,Rogers Intl Commodity ETN,Commodities
+GCC,Continuous Commodity Index Fund,Commodities
+FTGC,Global Tactical Commodity Strategy Fund,Commodities
+GSC,GS Connect S&P GSCI Enh Commodity TR ETN,Commodities
+DJCI,DJ-UBS Commodity Index Total Return ETN,Commodities
+UCI,E-TRACS UBS Bloomberg CMCI ETN,Commodities
+GSP,S&P GSCI Total Return Index ETN,Commodities
+BCM,Pure Beta Broad Commodity ETN,Commodities
+PDBC,DB Optimum Yield Diversified Commodity Strategy Portfolio,Commodities
+GRN,Global Carbon ETN,Commodities
+SBV,Pure Beta S&P GSCI-Weighted ETN,Commodities
+CSCB,X-Links Commodity Benchmark ETN,Commodities
+CSCR,X-Links Commodity Rotation ETN,Commodities
+GDX,Market Vectors TR Gold Miners,Commodity Producers Equities
+GUNR,Morningstar Global Upstream Natural Resources Index Fund ,Commodity Producers Equities
+IGE,iShares North American Natural Resources ETF,Commodity Producers Equities
+GDXJ,Market Vectors Junior Gold Miners ETF,Commodity Producers Equities
+MOO,Market Vectors-Agribusiness ETF,Commodity Producers Equities
+GNR,SPDR S&P Global Natural Resources ETF,Commodity Producers Equities
+XME,SPDR S&P Metals & Mining ETF,Commodity Producers Equities
+WOOD,S&P Global Timber & Forestry Index Fund,Commodity Producers Equities
+CUT,Timber ETF ,Commodity Producers Equities
+URA,Uranium ETF,Commodity Producers Equities
+SIL,Silver Miners ETF,Commodity Producers Equities
+SGDM,Gold Miners ETF,Commodity Producers Equities
+PICK,iShares MSCI Global Metals & Mining Producers ETF,Commodity Producers Equities
+HAP,Market Vectors Hard Assets Producers ETF,Commodity Producers Equities
+SLX,Market Vectors Steel Index ETF Fund,Commodity Producers Equities
+GRES,IQ Global Resources ETF,Commodity Producers Equities
+RING,iShares MSCI Global Gold Miners ETF,Commodity Producers Equities
+LIT,Lithium ETF,Commodity Producers Equities
+REMX,Market Vectors Rare Earth/Strategic Metals ETF,Commodity Producers Equities
+CRBQ,Thomson Reuters/Jefferies CRB Global Commodity Equity Index Fund,Commodity Producers Equities
+PAGG,Global Agriculture Portfolio,Commodity Producers Equities
+GLDX,Gold Explorers ETF,Commodity Producers Equities
+VEGI,MSCI Global Agriculture Producers ETF,Commodity Producers Equities
+SGDJ,Junior Gold Miners ETF,Commodity Producers Equities
+COPX,Copper Miners ETF,Commodity Producers Equities
+PSAU,Global Gold and Precious Metals Portfolio,Commodity Producers Equities
+GNAT,Global Natural Resources Fund,Commodity Producers Equities
+CU,ISE Global Copper Index Fund,Commodity Producers Equities
+CROP,IQ Global Agribusiness Small Cap ETF,Commodity Producers Equities
+SLVP,MSCI Global Silver Miners ETF,Commodity Producers Equities
+SOIL,Fertilizers/Potash ETF,Commodity Producers Equities
+PLTM,ISE Global Platinum Index Fund,Commodity Producers Equities
+SILJ,PureFunds ISE Junior Silver ETF,Commodity Producers Equities
+JUNR,Junior Miners ETF,Commodity Producers Equities
+VOX,Telecom ETF,Communications Equities
+IYZ,iShares U.S. Telecommunications ETF,Communications Equities
+IXP,iShares Global Telecom ETF,Communications Equities
+IST,SPDR S&P International Telecommunications Sector ETF,Communications Equities
+XTL,SPDR S&P Telecom ETF,Communications Equities
+FONE,NASDAQ CEA Smartphone Index Fund,Communications Equities
+XLY,Consumer Discretionary Select Sector SPDR,Consumer Discretionary Equities
+FXD,Consumer Discretionary AlphaDEX Fund,Consumer Discretionary Equities
+VCR,Consumer Discretion ETF,Consumer Discretionary Equities
+IYC,iShares U.S. Consumer Services ETF,Consumer Discretionary Equities
+XRT,SPDR S&P Retail ETF,Consumer Discretionary Equities
+FDIS,MSCI Consumer Discretionary Index ETF,Consumer Discretionary Equities
+RXI,iShares Global Consumer Discretionary ETF,Consumer Discretionary Equities
+PEZ, DWA Consumer Cyclicals Momentum,Consumer Discretionary Equities
+PEJ,Dynamic Leisure & Entertainment Portfolio,Consumer Discretionary Equities
+RTH,Market Vectors Retail ETF,Consumer Discretionary Equities
+RCD,S&P Equal Weight Consumer Discretionary,Consumer Discretionary Equities
+PBS,Dynamic Media,Consumer Discretionary Equities
+PSCD,S&P SmallCap Consumer Discretionary Portfolio,Consumer Discretionary Equities
+CHIQ,China Consumer ETF,Consumer Discretionary Equities
+INCO,India Consumer ETF,Consumer Discretionary Equities
+CARZ,NASDAQ Global Auto Index Fund,Consumer Discretionary Equities
+BJK,Market Vectors Gaming ETF,Consumer Discretionary Equities
+PMR,Dynamic Retail,Consumer Discretionary Equities
+IPD,SPDR S&P International Consumer Discretionary Sector ETF,Consumer Discretionary Equities
+BITE,The Restaurant ETF,Consumer Discretionary Equities
+XLP,Consumer Staples Select Sector SPDR,Consumer Staples Equities
+FXG,Consumer Staples AlphaDEX Fund,Consumer Staples Equities
+VDC,Consumer Staples ETF,Consumer Staples Equities
+IYK,iShares U.S. Consumer Goods ETF,Consumer Staples Equities
+ECON,EGShares Emerging Markets Consumer,Consumer Staples Equities
+KXI,iShares Global Consumer Staples ETF,Consumer Staples Equities
+RHS,S&P Equal Weight Consumer Staples ETF,Consumer Staples Equities
+PSL,DWA Consumer Staples Momentum,Consumer Staples Equities
+PBJ,Dynamic Food & Beverage,Consumer Staples Equities
+FSTA,MSCI Consumer Staples Index ETF,Consumer Staples Equities
+IPS,SPDR S&P International Consumer Staples Sector ETF,Consumer Staples Equities
+PSCC,S&P SmallCap Consumer Staples Portfolio,Consumer Staples Equities
+BRAQ,Brazil Consumer ETF,Consumer Staples Equities
+LQD,iShares iBoxx $ Investment Grade Corporate Bond ETF,Corporate Bonds
+VCSH,Short-Term Corporate Bond Index Fund,Corporate Bonds
+CSJ,iShares 1-3 Year Credit Bond ETF,Corporate Bonds
+CIU,iShares Intermediate Credit Bond ETF,Corporate Bonds
+VCIT,Intermediate-Term Corporate Bond Index Fund,Corporate Bonds
+SCPB,SPDR Barclays Capital Short Term Corporate Bond ETF,Corporate Bonds
+FLOT,iShares Floating Rate Bond ETF,Corporate Bonds
+VCLT,Long-Term Corporate Bond Index Fund,Corporate Bonds
+BSCH,BulletShares 2017 Corporate Bond ETF ,Corporate Bonds
+ITR,SPDR Barclays Capital Intermediate Term Credit Bond ETF,Corporate Bonds
+CLY,iShares 10+ Year Credit Bond ETF,Corporate Bonds
+CFT,iShares Credit Bond ETF,Corporate Bonds
+BSCI,BulletShares 2018 Corporate Bond ETF,Corporate Bonds
+BSCG,BulletShares 2016 Corporate Bond ETF,Corporate Bonds
+BSCJ,BulletShares 2019 Corporate Bond ETF,Corporate Bonds
+BSCK,BulletShares 2020 Corporate Bond ETF,Corporate Bonds
+BSCF,BulletShares 2015 Corporate Bond ETF ,Corporate Bonds
+CORP,Investment Grade Corporate Bond Index Fund,Corporate Bonds
+MINC,Newfleet Multi-Sector Income ETF,Corporate Bonds
+LWC,SPDR Barclays Capital Long Term Corporate Bond ETF,Corporate Bonds
+BSCL,Guggenheim BulletShares 2021 Corporate Bond ETF,Corporate Bonds
+BSCM,Guggenheim BulletShares 2022 Corporate Bond ETF,Corporate Bonds
+PICB,International Corporate Bond Portfolio,Corporate Bonds
+IBND,SPDR Barclays Capital International Corporate Bond ETF,Corporate Bonds
+IBCC,iSharesBond 2018 Corporate ex-Financials Term ETF,Corporate Bonds
+IGHG,Investment Grade Interest Rate Hedged ETF,Corporate Bonds
+FLTB,Limited Term Bond ETF,Corporate Bonds
+RAVI,Ready Access Variable Income Fund,Corporate Bonds
+IBDB,iShares 2018 Corporate Term ETF,Corporate Bonds
+FLTR,Market Vectors Investment Grade Floating Rate Bond ETF,Corporate Bonds
+IBDC,iSharesBond 2020 Corporate Term ETF,Corporate Bonds
+QLTA,iShares Aaa - A Rated Corporate Bond ETF,Corporate Bonds
+SLQD,0-5 Year Investment Grade Corporate Bond ETF,Corporate Bonds
+IBDA,iSharesBond 2016 Corporate Term ETF,Corporate Bonds
+IBDD,iBonds Mar 2023 Corporate ETF,Corporate Bonds
+IBCD,iSharesBond 2020 Corporate ex-Financials Term ETF,Corporate Bonds
+BSCO,BulletShares 2024 Corporate Bond ETF,Corporate Bonds
+IBDH,Dec 2018 Corporate Term ETF,Corporate Bonds
+BSCN,BulletShares 2023 Corporate Bond ETF,Corporate Bonds
+IBCE,iSharesBond 2023 Corporate ex-Financials Term ETF,Corporate Bonds
+IBDF,Dec 2016 Corporate Term ETF,Corporate Bonds
+IBCB,iSharesBond 2016 Corporate ex-Financials Term ETF,Corporate Bonds
+PFIG,Fundamental Investment Grade Corporate Bond Portfolio,Corporate Bonds
+FCOR,Corporate Bond ETF,Corporate Bonds
+FLRT,Pacific Asset Enhanced Floating Rate ETF,Corporate Bonds
+CBND,SPDR Barclays Capital Issuer Scored Corporate Bond ETF,Corporate Bonds
+IBDJ,iBonds Dec 2017 Corporate ETF,Corporate Bonds
+LQDH,Interest Rate Hedged Corporate Bond ETF,Corporate Bonds
+SKOR,Credit-Scored US Corporate Bond Index Fund,Corporate Bonds
+CLYH,Interest Rate Hedged 10+ Year Credit Bond ETF,Corporate Bonds
+CRDT,Strategic Corporate Bond Fund,Corporate Bonds
+LDRI,LadderRite 0-5 Year Corporate Bond Portfolio,Corporate Bonds
+BSCP,BulletShares 2025 Corporate Bond ETF,Corporate Bonds
+IGIH,Investment Grade Bond - Interest Rate Hedged ETF,Corporate Bonds
+UUP,DB USD Index Bullish,Currency
+FXE,CurrencyShares Euro Currency Trust,Currency
+USDU,Bloomberg U.S. Dollar Bullish Fund,Currency
+FXC,CurrencyShares Canadian Dollar Trust,Currency
+FXA,CurrencyShares Australian Dollar Trust,Currency
+FXF,CurrencyShares Swiss Franc Trust,Currency
+FXY,CurrencyShares Japanese Yen Trust,Currency
+DBV,DB G10 Currency Harvest,Currency
+CYB,Dreyfus Chinese Yuan Fund,Currency
+FXB,CurrencyShares British Pound Sterling Trust,Currency
+CEW,Dreyfus Emerging Currency Fund,Currency
+UDN,DB USD Index Bearish,Currency
+FXS,CurrencyShares Swedish Krona Trust,Currency
+CNY,Market Vectors-Chinese Renminbi/USD ETN,Currency
+EUFX,Short Euro,Currency
+BZF,Dreyfus Brazilian Real Fund,Currency
+FORX,PIMCO Foreign Currency Strategy Exchange-Traded Fund,Currency
+ICN,Dreyfus Indian Rupee Fund,Currency
+FXCH,CurrencyShares Chinese Renminbi Trust,Currency
+CCX,Dreyfus Commodity Currency Fund,Currency
+FXSG,CurrencyShares Singapore Dollar Trust,Currency
+AYT,GEMS Asia 8 ETN,Currency
+ERO,EUR/USD Exchange Rate ETN,Currency
+GBB,GBP/USD Exchange Rate ETN,Currency
+ICI,Optimized Currency Carry ETN,Currency
+JEM,GEMS Index ETN,Currency
+JYN,JPY/USD Exchange Rate ETN,Currency
+INR,Market Vectors-Indian Rupee/USD ETN,Currency
+PGD,Asian & Gulf Currency Revaluation ETN,Currency
+MDIV,Multi-Asset Diversified Income Index Fund,Diversified Portfolio
+AOR,iShares Growth Allocation ETF,Diversified Portfolio
+AOA,iShares Aggressive Allocation ETF,Diversified Portfolio
+AOM,iShares Moderate Allocation ETF,Diversified Portfolio
+WBII,WBI Tactical Income Shares,Diversified Portfolio
+WBIH,WBI Tactical High Income Shares,Diversified Portfolio
+IYLD,Morningstar Multi-Asset Income Index Fund,Diversified Portfolio
+AOK,iShares Conservative Allocation ETF,Diversified Portfolio
+GAL,SPDR Global Allocation ETF,Diversified Portfolio
+GYLD,Dow Jones Global Yield ETF,Diversified Portfolio
+INKM,SPDR Income Allocation ETF,Diversified Portfolio
+YYY,High Income ETF,Diversified Portfolio
+TUTI,Tuttle Tactical Management Multi-Strategy Income ETF,Diversified Portfolio
+GAA,Cambria Global Asset Allocation ETF,Diversified Portfolio
+GMOM,Global Momentum ETF,Diversified Portfolio
+MLTI,X-Links Multi-Asset High Income,Diversified Portfolio
+DVHI,ETRACS Diversified High Income ETN,Diversified Portfolio
+FDIV,Strategic Income ETF,Diversified Portfolio
+MATH,Meidell Tactical Advantage ETF,Diversified Portfolio
+SCTO,JPMorgan Sector Rotator Index ETF,Diversified Portfolio
+YDIV,International Multi-Asset Diversified Income Index Fund,Diversified Portfolio
+PERM,Permanent ETF,Diversified Portfolio
+GTAA,Cambria Global Tactical ETF,Diversified Portfolio
+EFFE,JPMorgan Efficiente Index ETF,Diversified Portfolio
+GIVE,Global Echo ETF,Diversified Portfolio
+GCE,Claymore CEF GS Connect ETN,Diversified Portfolio
+DBIZ,Pring Turner Business Cycle ETF,Diversified Portfolio
+HIPS,Master Income ETF,Diversified Portfolio
+EMB,iShares J.P. Morgan USD Emerging Markets Bond ETF,Emerging Markets Bonds
+PCY,Emerging Markets Sovereign Debt Portfolio,Emerging Markets Bonds
+EMLC,Market Vectors J.P. Morgan EM Local Currency Bond ETF,Emerging Markets Bonds
+LEMB,iShares Emerging Markets Local Currency Bond ETF,Emerging Markets Bonds
+VWOB,Emerging Markets Government Bond ETF,Emerging Markets Bonds
+ELD,Emerging Markets Local Debt Fund,Emerging Markets Bonds
+DSUM,Chinese Yuan Dim Sum Bond Portfolio,Emerging Markets Bonds
+EMCB,Emerging Markets Corporate Bond Fund,Emerging Markets Bonds
+EBND,SPDR Barclays Capital Emerging Markets Local Bond ETF,Emerging Markets Bonds
+KCNY,E Fund China Commercial Paper ETF,Emerging Markets Bonds
+CHNB,GF China Bond ETF,Emerging Markets Bonds
+CEMB,Emerging Markets Corporate Bond Fund,Emerging Markets Bonds
+CBON,ChinaAMC China Bond ETF,Emerging Markets Bonds
+EMCD,SPDR BofA Merrill Lynch Emerging Markets Corporate Bond ETF,Emerging Markets Bonds
+EMAG, EM Aggregate Bond ETF,Emerging Markets Bonds
+EMIH,Emerging Markets Bond - Interest Rate Hedged ETF,Emerging Markets Bonds
+PFEM,Fundamental Emerging Markets Local Debt Portfolio,Emerging Markets Bonds
+FEMB,Emerging Markets Local Currency Bond ETF,Emerging Markets Bonds
+EMBH,Interest Rate Hedged Emerging Markets Bond ETF,Emerging Markets Bonds
+LEMF,TCW EM Long Term Investment Grade Bond ETF,Emerging Markets Bonds
+VWO,Emerging Markets ETF,Emerging Markets Equities
+EEM,iShares MSCI Emerging Markets ETF,Emerging Markets Equities
+IEMG,Core MSCI Emerging Markets ETF,Emerging Markets Equities
+INDA,MSCI India Index Fund,Emerging Markets Equities
+EEMV,iShares MSCI Emerging Markets Minimum Volatility ETF,Emerging Markets Equities
+RSX,Market Vectors Russia ETF,Emerging Markets Equities
+EPI,India Earnings Fund,Emerging Markets Equities
+DEM,Emerging Markets Equity Income Fund,Emerging Markets Equities
+SCHE,Schwab Emerging Markets Equity ETF,Emerging Markets Equities
+DGS,Emerging Market SmallCap Fund,Emerging Markets Equities
+INDY,S&P India Nifty Fifty Index Fund,Emerging Markets Equities
+FM,MSCI Frontier 100 Index Fund,Emerging Markets Equities
+PIN,India Portfolio,Emerging Markets Equities
+VNM,Market Vectors Vietnam ETF,Emerging Markets Equities
+EZA,iShares MSCI South Africa ETF,Emerging Markets Equities
+TUR,MSCI Turkey ETF,Emerging Markets Equities
+EWX,SPDR S&P Emerging Markets Small Cap ETF,Emerging Markets Equities
+AIA,iShares Asia 50 ETF,Emerging Markets Equities
+PXH,FTSE RAFI Emerging Markets Portfolio,Emerging Markets Equities
+FNDE,Schwab Fundamental Emerging Markets Large Company Index ETF,Emerging Markets Equities
+EDIV,SPDR S&P Emerging Markets Dividend ETF,Emerging Markets Equities
+EIDO,MSCI Indonesia ETF ,Emerging Markets Equities
+EWM,iShares MSCI Malaysia ETF,Emerging Markets Equities
+INP,MSCI India Index ETN,Emerging Markets Equities
+EPHE,iShares MSCI Philippines ETF,Emerging Markets Equities
+THD,MSCI Thailand Capped ETF,Emerging Markets Equities
+ERUS,iShares MSCI Russia Capped ETF,Emerging Markets Equities
+HEEM,Currency Hedged MSCI Emerging Markets ETF,Emerging Markets Equities
+GMM,SPDR S&P Emerging Markets ETF,Emerging Markets Equities
+TLTE,Morningstar Emerging Markets Factor Tilt Index Fund,Emerging Markets Equities
+SCIF,India Small-Cap Index ETF,Emerging Markets Equities
+BKF,MSCI BRIC Index Fund,Emerging Markets Equities
+PIE,DWA Emerging Market Technical Leaders Portfolio,Emerging Markets Equities
+EPOL,iShares MSCI Poland Capped ETF,Emerging Markets Equities
+GEM,ActiveBeta Emerging Markets Equity,Emerging Markets Equities
+BBRC,Beyond BRICs ETF,Emerging Markets Equities
+EELV,S&P Emerging Markets Low Volatility Portfolio,Emerging Markets Equities
+DVYE,iShares Emerging Markets Dividend ETF,Emerging Markets Equities
+DBEM,MSCI Emerging Markets Equity Fund,Emerging Markets Equities
+FEM,Emerging Markets AlphaDEX Fund,Emerging Markets Equities
+ADRE,BLDRS Emerging Markets 50 ADR Index Fund,Emerging Markets Equities
+EMFM,Next Emerging & Frontier ETF,Emerging Markets Equities
+BIK,SPDR S&P BRIC 40,Emerging Markets Equities
+IDX,Market Vectors Indonesia Index ETF,Emerging Markets Equities
+EEB,BRIC ETF,Emerging Markets Equities
+EEMS,iShares MSCI Emerging Markets Small-Cap ETF,Emerging Markets Equities
+QEMM,SPDR MSCI Emerging Markets Quality Mix ETF,Emerging Markets Equities
+AFK,Market Vectors-Africa Index ETF,Emerging Markets Equities
+SMIN,MSCI India Small Cap Index Fund,Emerging Markets Equities
+QAT,MSCI Qatar Capped ETF,Emerging Markets Equities
+GUR,SPDR S&P Emerging Europe ETF,Emerging Markets Equities
+FRN,Frontier Markets ETF ,Emerging Markets Equities
+RSXJ,Market Vectors Russia Small-Cap ETF,Emerging Markets Equities
+EGPT,Egypt Index ETF,Emerging Markets Equities
+JPEM,Diversified Return Emerging Markets Equity ETF,Emerging Markets Equities
+GAF,SPDR S&P Middle East & Africa ETF,Emerging Markets Equities
+DGRE,WisdomTree Emerging Markets Dividend Growth Fund,Emerging Markets Equities
+FEMS,Emerging Markets Small Cap AlphaDEX Fund,Emerging Markets Equities
+EMDD,Emerging Markets Domestic Demand ETF,Emerging Markets Equities
+UAE,MSCI UAE Capped ETF,Emerging Markets Equities
+RBL,SPDR S&P Russia ETF,Emerging Markets Equities
+GULF,Middle East Dividend ETF,Emerging Markets Equities
+NGE,Global X Nigeria Index ETF,Emerging Markets Equities
+SCIN,India Small Cap ETF,Emerging Markets Equities
+HILO,Low Volatility Emerging Markets Dividend ETF,Emerging Markets Equities
+PLND,Market Vectors Poland ETF,Emerging Markets Equities
+ASEA,FTSE ASEAN 40 ETF,Emerging Markets Equities
+EMCG,Emerging Markets Consumer Growth Fund,Emerging Markets Equities
+ROAM,Emerging Markets Strategy ETF,Emerging Markets Equities
+MES,Market Vectors Gulf States Index ETF,Emerging Markets Equities
+EMQQ,Emerging Markets Internet & eCommerce ETF,Emerging Markets Equities
+EWEM,MSCI Emerging Markets Equal Weight,Emerging Markets Equities
+EDOG,Emerging Sector Dividend Dogs ETF,Emerging Markets Equities
+BICK,BICK Index Fund,Emerging Markets Equities
+IDXJ,Market Vectors Indonesia Small-Cap ETF,Emerging Markets Equities
+PAK,MSCI Pakistan ETF,Emerging Markets Equities
+EMCR,Emerging Markets Core ETF,Emerging Markets Equities
+KSA,MSCI Saudi Arabia Capped ETF,Emerging Markets Equities
+HAHA,China CSI 300 A-H Dynamic ETF,Emerging Markets Equities
+QEM,MSCI Emerging Markets Quality ETF,Emerging Markets Equities
+EMFT,SPDR MSCI EM 50 ETF,Emerging Markets Equities
+QDEM,MSCI Emerging Markets Quality Dividend ETF,Emerging Markets Equities
+SDEM,SuperDividend Emerging Markets ETF,Emerging Markets Equities
+CNHX,MSCI China A International Hedged ETF,Emerging Markets Equities
+ASHX,X-trackers CSI 300 China A-Shares Hedged Equity ETF,Emerging Markets Equities
+EMBB,MSCI EM Beyond BRIC ETF,Emerging Markets Equities
+AZIA,Global X Central Asia & Mongolia Index ETF,Emerging Markets Equities
+EMSD,Strong Dollar Emerging Markets Equity Fund,Emerging Markets Equities
+KLEM,Gavekal Knowledge Leaders Emerging Markets ETF,Emerging Markets Equities
+HDEE,MSCI Emerging Markets High Dividend Yield Hedged Equity ETF,Emerging Markets Equities
+KEMP,FTSE Emerging Markets Plus ETF,Emerging Markets Equities
+XSOE,Emerging Markets ex-State-Owned Enterprises Fund,Emerging Markets Equities
+XCEM,EM Core ex-China ETF,Emerging Markets Equities
+EEHB,S&P Emerging Markets High Beta Portfolio,Emerging Markets Equities
+XLE,Energy Select Sector SPDR,Energy Equities
+VDE,Energy ETF,Energy Equities
+XOP,SPDR S&P Oil & Gas Explor & Product,Energy Equities
+OIH,Market Vectors Oil Services ETF,Energy Equities
+IYE,iShares U.S. Energy ETF,Energy Equities
+IXC,iShares Global Energy ETF,Energy Equities
+IEO,iShares U.S. Oil & Gas Exploration & Production ETF,Energy Equities
+IEZ,iShares U.S. Oil Equipment & Services ETF,Energy Equities
+FENY,MSCI Energy Index ETF,Energy Equities
+FXN,Energy AlphaDEX Fund,Energy Equities
+FCG,ISE-Revere Natural Gas Index Fund,Energy Equities
+XES,SPDR S&P Oil & Gas Equip & Service,Energy Equities
+RYE,S&P Equal Weight Energy ETF,Energy Equities
+PXI,DWA Energy Momentum,Energy Equities
+PXE,Dynamic Energy E&P,Energy Equities
+KOL,Market Vectors Coal ETF,Energy Equities
+PXJ,Dynamic Oil Services,Energy Equities
+FRAK,Market Vectors Unconventional Oil & Gas ETF,Energy Equities
+PSCE,S&P SmallCap Energy Portfolio,Energy Equities
+FILL,iShares MSCI Global Energy Producers ETF,Energy Equities
+ENY,Canadian Energy Income ETF ,Energy Equities
+IPW,SPDR S&P International Energy Sector ETF,Energy Equities
+CRAK,Oil Refiners ETF,Energy Equities
+IOIL,IQ Global Oil Small Cap ETF,Energy Equities
+CHIE,China Energy ETF,Energy Equities
+HEDJ,Europe Hedged Equity Fund ,Europe Equities
+VGK,FTSE Europe ETF,Europe Equities
+EZU,iShares MSCI EMU ETF,Europe Equities
+EWG,iShares MSCI Germany ETF,Europe Equities
+FEZ,SPDR Euro STOXX 50 ETF,Europe Equities
+DBEU,MSCI Europe Hedged Equity Fund,Europe Equities
+IEV,iShares Europe ETF,Europe Equities
+EWU,iShares MSCI United Kingdom ETF,Europe Equities
+HEZU,Currency Hedged MSCI EMU ETF,Europe Equities
+EWP,iShares MSCI Spain Capped ETF,Europe Equities
+HEWG,Currency Hedged MSCI Germany ETF,Europe Equities
+EWI,iShares MSCI Italy Capped ETF,Europe Equities
+EWL,iShares MSCI Switzerland Capped ETF,Europe Equities
+DFE,Europe SmallCap Dividend Fund,Europe Equities
+FEEU,Barclays ETN + FI Enhanced Europe 50 ETN,Europe Equities
+IEUR,Core MSCI Europe ETF,Europe Equities
+FEP,Europe AlphaDEX Fund,Europe Equities
+EWQ,iShares MSCI France ETF,Europe Equities
+EWD,iShares MSCI Sweden ETF,Europe Equities
+DXGE,Germany Hedged Equity Fund,Europe Equities
+GREK,FTSE Greece 20 ETF,Europe Equities
+FEU,SPDR STOXX Europe 50 ETF,Europe Equities
+EUSC,Europe Hedged SmallCap Equity Fund,Europe Equities
+FKU,United Kingdom AlphaDEX Fund,Europe Equities
+FGM,Germany AlphaDEX Fund,Europe Equities
+FSZ,Switzerland AlphaDEX Fund,Europe Equities
+FDD,STOXX European Select Dividend Index Fund,Europe Equities
+FXEU,Europe Currency Hedged Low Volatility Portfolio,Europe Equities
+EWN,iShares MSCI Netherlands ETF,Europe Equities
+EIRL,iShares MSCI Ireland Capped ETF,Europe Equities
+EWK,iShares MSCI Belgium Capped ETF,Europe Equities
+DBGR,db X-trackers MSCI Germany Hedged Equity Fund,Europe Equities
+HEWI,Currency Hedged MSCI Italy ETF,Europe Equities
+NORW,FTSE Norway 30 ETF,Europe Equities
+EWO,iShares MSCI Austria Capped ETF,Europe Equities
+HEWP,Currency Hedged MSCI Spain ETF,Europe Equities
+IEUS,MSCI Europe Small-Cap ETF,Europe Equities
+DBEZ,Deutsche X-trackers MSCI EMU Hedged Equity ETF,Europe Equities
+GXF,FTSE Nordic 30 ETF,Europe Equities
+EDEN,MSCI Denmark Capped Investable Market Index Fund,Europe Equities
+HFXE,IQ 50 Percent Hedged FTSE Europe ETF,Europe Equities
+PGAL,FTSE Portugal 20 ETF,Europe Equities
+DXPS,WisdomTree United Kingdom Hedged Equity Fund,Europe Equities
+SMEZ,SPDR EURO STOXX Small Cap ETF,Europe Equities
+EUMV,iShares MSCI Europe Minimum Volatility ETF,Europe Equities
+ENOR,MSCI Norway Capped Investable Market Index Fund,Europe Equities
+EWGS,MSCI Germany Small Cap Index Fund,Europe Equities
+EFNL,MSCI Finland Capped Investable Market Index Fund,Europe Equities
+HGEU,Hedged FTSE Europe ETF,Europe Equities
+ADRU,BLDRS Europe 100 ADR Index Fund,Europe Equities
+EUDG,Europe Dividend Growth Fund,Europe Equities
+EWUS,MSCI United Kingdom Small Cap Index Fund,Europe Equities
+DAX,Recon Capital DAX Germany ETF,Europe Equities
+FEUZ,Eurozone AlphaDEX ETF ,Europe Equities
+QDEU,SPDR MSCI Germany Quality Mix ETF,Europe Equities
+HFEZ,SPDR EURO STOXX 50 Currency Hedged ETF,Europe Equities
+STXX,STOXX Europe 600 ETF,Europe Equities
+HEWU,Currency Hedged MSCI United Kingdom ETF,Europe Equities
+HEWL,Currency Hedged MSCI Switzerland ETF,Europe Equities
+DBUK,MSCI United Kingdom Hedged Equity Fund,Europe Equities
+EUDV,ProShares MSCI Europe Dividend Growers,Europe Equities
+EZR,Europe Local Recovery Fund,Europe Equities
+OEUR,O'Shares FTSE Europe Quality Dividend ETF,Europe Equities
+OEUH,O'Shares FTSE Europe Quality Dividend Hedged ETF,Europe Equities
+QGBR,SPDR MSCI United Kingdom Quality Mix ETF,Europe Equities
+HDEZ,MSCI Eurozone High Dividend Yield Hedged Equity ETF,Europe Equities
+SBEU,Diversified-Factor Developed Europe Index Fund,Europe Equities
+SCID,Scientific Beta Europe ETF,Europe Equities
+QESP,SPDR MSCI Spain Quality Mix ETF,Europe Equities
+XLF,Financial Select Sector SPDR,Financials Equities
+VFH,Financials ETF,Financials Equities
+KBE,SPDR S&P Bank ETF,Financials Equities
+KRE,SPDR S&P Regional Banking ETF,Financials Equities
+IYF,iShares U.S. Financials ETF,Financials Equities
+FXO,Financials AlphaDEX Fund,Financials Equities
+IYG,iShares U.S. Financial Services ETF,Financials Equities
+KIE,SPDR S&P Insurance ETF,Financials Equities
+KBWB,KBW Bank Portfolio,Financials Equities
+IAT,iShares U.S. Regional Banks ETF,Financials Equities
+PSP,Listed Private Equity,Financials Equities
+EUFN,MSCI Europe Financials Sector Index Fund,Financials Equities
+IAI,iShares U.S. Broker-Dealers ETF,Financials Equities
+KBWD,KBW High Dividend Yield Financial Portfolio,Financials Equities
+FNCL,MSCI Financials Index ETF,Financials Equities
+IXG,iShares Global Financials ETF,Financials Equities
+RYF,S&P Equal Weight Financial ETF,Financials Equities
+PSCF,S&P SmallCap Financials Portfolio,Financials Equities
+QABA,NASDAQ ABA Community Bank Index Fund,Financials Equities
+IAK,iShares U.S. Insurance ETF,Financials Equities
+KCE,SPDR S&P Capital Markets ETF,Financials Equities
+KBWP,KBW Property & Casualty Insurance Portfolio,Financials Equities
+BIZD,Market Vectors BDC Income ETF,Financials Equities
+BDCS,E-TRACS Linked to the Wells Fargo Business Development Company Index,Financials Equities
+CHIX,China Financials ETF,Financials Equities
+KBWR,KBW Regional Banking Portfolio,Financials Equities
+PFI,DWA Financial Momentum ,Financials Equities
+RWW,Financials Sector Fund,Financials Equities
+KBWI,KBW Insurance Portfolio,Financials Equities
+JHMF,Multifactor Financials,Financials Equities
+PEX,Global Listed Private Equity ETF,Financials Equities
+KBWC,KBW Capital Markets Portfolio,Financials Equities
+IPF,SPDR S&P International Financial Sector ETF,Financials Equities
+XLFS,Financial Services Select Sector SPDR Fund,Financials Equities
+BRAF,Brazil Financials ETF,Financials Equities
+EFA,iShares MSCI EAFE ETF,Foreign Large Cap Equities
+VEA,Europe Pacific,Foreign Large Cap Equities
+DBEF,MSCI EAFE Hedged Equity Fund,Foreign Large Cap Equities
+IEFA,Core MSCI EAFE ETF,Foreign Large Cap Equities
+SCHF,Schwab International Equity ETF,Foreign Large Cap Equities
+EFAV,iShares MSCI EAFE Minimum Volatility ETF,Foreign Large Cap Equities
+IDV,iShares International Select Dividend ETF,Foreign Large Cap Equities
+HEFA,Currency Hedged MSCI EAFE ETF,Foreign Large Cap Equities
+EFV,iShares MSCI EAFE Value ETF,Foreign Large Cap Equities
+EWC,iShares MSCI Canada ETF,Foreign Large Cap Equities
+EFG,iShares MSCI EAFE Growth ETF,Foreign Large Cap Equities
+PID,Intl Dividend Achievers,Foreign Large Cap Equities
+DWX,SPDR S&P International Dividend ETF,Foreign Large Cap Equities
+PXF,FTSE RAFI Developed Markets ex-U.S. Portfolio,Foreign Large Cap Equities
+FNDF,Schwab Fundamental International Large Company Index ETF,Foreign Large Cap Equities
+DWM,DEFA Fund,Foreign Large Cap Equities
+TLTD,Morningstar Developed Markets ex-US Factor Tilt Index Fund,Foreign Large Cap Equities
+IHDG,International Hedged Dividend Growth Fund,Foreign Large Cap Equities
+DOL,International LargeCap Dividend Fund,Foreign Large Cap Equities
+IDLV,S&P International Developed Low Volatility Portfolio,Foreign Large Cap Equities
+DTH,DEFA High-Yielding Equity Fund,Foreign Large Cap Equities
+DOO,International Dividend ex-Financials Fund,Foreign Large Cap Equities
+PIZ,DWA Developed Market Technical Leaders Portfolio,Foreign Large Cap Equities
+FDT,Developed Markets Ex-US AlphaDEX Fund,Foreign Large Cap Equities
+EIS,iShares MSCI Israel Capped ETF,Foreign Large Cap Equities
+DGT,SPDR Global Dow ETF,Foreign Large Cap Equities
+ADRD,BLDRS Developed Markets 100 ADR Index,Foreign Large Cap Equities
+IEIL,Enhanced International Large-Cap ETF,Foreign Large Cap Equities
+IPKW,International BuyBack Achievers Portfolio ,Foreign Large Cap Equities
+HFXI,IQ 50 Percent Hedged FTSE International ETF,Foreign Large Cap Equities
+FYLD,Cambria Foreign Shareholder Yield ETF,Foreign Large Cap Equities
+CIZ,Developed 500 Enhanced Volatility Weighted Index ETF,Foreign Large Cap Equities
+RODM,Developed Markets (ex-US) Strategy ETF,Foreign Large Cap Equities
+HGI,International Multi-Asset Income ETF ,Foreign Large Cap Equities
+IDHQ,S&P International Developed High Quality Portfolio Fund,Foreign Large Cap Equities
+IVAL,International Quantitative Value ETF,Foreign Large Cap Equities
+FWDI,Madrona Forward International ETF,Foreign Large Cap Equities
+FCFI,International Free-Cash-Flow ETF,Foreign Large Cap Equities
+FCAN,Canada AlphaDEX Fund,Foreign Large Cap Equities
+QCAN,SPDR MSCI Canada Quality Mix ETF,Foreign Large Cap Equities
+INTF,FactorSelect MSCI International ETF,Foreign Large Cap Equities
+KLDW,Gavekal Knowledge Leaders Developed World ETF,Foreign Large Cap Equities
+QEFA,SPDR MSCI EAFE Quality Mix ETF,Foreign Large Cap Equities
+HDEF,MSCI EAFE High Dividend Yield Hedged Equity ETF,Foreign Large Cap Equities
+IDHB,S&P International Developed High Beta Portfolio,Foreign Large Cap Equities
+HDWM,International Hedged Equity Fund,Foreign Large Cap Equities
+HEWC,Currency Hedged MSCI Canada ETF,Foreign Large Cap Equities
+CIL,International 500 Volatility Weighted Index ETF,Foreign Large Cap Equities
+CID,International High Dividend 100 Volatility Weighted Index ETF,Foreign Large Cap Equities
+HJPX,Currency Hedged JPX-Nikkei 400,Foreign Large Cap Equities
+SCZ,MSCI EAFE Small-Cap ETF,Foreign Small & Mid Cap Equities
+VSS,FTSE All-World ex-US Small Cap Index ETF,Foreign Small & Mid Cap Equities
+DLS,International SmallCap Fund,Foreign Small & Mid Cap Equities
+GWX,SPDR S&P International SmallCap ETF,Foreign Small & Mid Cap Equities
+SCHC,Schwab International Small-Cap Equity ETF,Foreign Small & Mid Cap Equities
+FNDC,Schwab Fundamental International Small Company Index ETF,Foreign Small & Mid Cap Equities
+DIM,International MidCap Dividend Fund,Foreign Small & Mid Cap Equities
+PDN,FTSE RAFI Developed Markets ex-U.S. Small-Mid Portfolio,Foreign Small & Mid Cap Equities
+MDD,SPDR S&P International Mid Cap ETF,Foreign Small & Mid Cap Equities
+IFSM,FTSE Developed Small Cap ex-North America,Foreign Small & Mid Cap Equities
+IEIS,Enhanced International Small-Cap ETF,Foreign Small & Mid Cap Equities
+HSCZ,Currency Hedged MSCI EAFE Small-Cap ETF,Foreign Small & Mid Cap Equities
+CNDA,IQ Canada Small Cap ETF,Foreign Small & Mid Cap Equities
+FDTS,Developed Markets ex-US Small Cap AlphaDEX Fund,Foreign Small & Mid Cap Equities
+ISCF,FactorSelect MSCI Intl Small-Cap ETF,Foreign Small & Mid Cap Equities
+HDLS,International Hedged SmallCap Dividend Fund,Foreign Small & Mid Cap Equities
+VEU,FTSE All World Ex US ETF,Global Equities
+ACWI,MSCI All Country World Index Fund,Global Equities
+VT,Total World Stock Index ETF,Global Equities
+VXUS,Total International Stock ETF,Global Equities
+ACWX,MSCI ACWI ex US Index Fund,Global Equities
+ACWV,MSCI All Country World Minimum Volatility ETF,Global Equities
+IXUS,Core MSCI Total International Stock ETF,Global Equities
+IOO,iShares Global 100 ETF,Global Equities
+FIGY,Barclays ETN+ FI Enhanced Global High Yield ETN,Global Equities
+SDIV,SuperDividend ETF,Global Equities
+GWL,SPDR S&P World ex-US ETF,Global Equities
+CWI,SPDR MSCI ACWI ex-US ETF,Global Equities
+IFV,Dorsey Wright International Focus 5 ETF,Global Equities
+VIDI,International Equity Fund,Global Equities
+NFRA,STOXX Global Broad Infrastructure Index Fund,Global Equities
+IQDF,FlexShares International Quality Dividend Index Fund,Global Equities
+FGD,DJ Global Select Dividend Index Fund,Global Equities
+TOK,MSCI KLD 400 Social ETF,Global Equities
+URTH,MSCI World ETF,Global Equities
+IDOG,ALPS International Sector  Dividend Dogs ETF,Global Equities
+DEW,Global Equity Income Fund,Global Equities
+LOWC,SPDR MSCI ACWI Low Carbon Target ETF,Global Equities
+IQDE,FlexShares International Quality Dividend Defensive Index Fund,Global Equities
+DNL,Global ex-U.S. Growth Fund,Global Equities
+WDIV,SPDR S&P Global Dividend ETF,Global Equities
+GVAL,Cambria Global Value ETF,Global Equities
+DBAW,db X-trackers MSCI All World ex US Hedged Equity Fund,Global Equities
+LVL,S&P Global Dividend Opportunities Index ETF ,Global Equities
+ISRA,Market Vectors Israel ETF,Global Equities
+JPGE,Diversified Return Global Equity ETF,Global Equities
+JETS,U.S. Global Jets ETF,Global Equities
+ACIM,SPDR MSCI ACWI IMI ETF,Global Equities
+IQDY,FlexShares International Quality Dividend Dynamic Index Fund,Global Equities
+EPRO,EquityPro ETF,Global Equities
+RTR,ADR Fund,Global Equities
+VEGA,STAR Global Buy-Write ETF,Global Equities
+AADR,WCM/BNY Mellon Focused Growth ADR ETF,Global Equities
+EFAD,MSCI EAFE Dividend Growers ETF,Global Equities
+MOTI,Morningstar International Moat ETF,Global Equities
+HDAW,MSCI All World ex US High Dividend Yield Hedged Equity ETF,Global Equities
+EQLT,Workplace Equality Portfolio ETF,Global Equities
+DXUS,Global ex-U.S. Hedged Dividend Fund,Global Equities
+CCXE,Commodity Country Equity Fund,Global Equities
+DIVI,Athena High Dividend ETF,Global Equities
+ROGS,Global Small Cap Strategy ETF,Global Equities
+QWLD,SPDR MSCI World Quality Mix ETF,Global Equities
+QXUS,MSCI International Quality ETF,Global Equities
+QDXU,MSCI International Quality Dividend ETF,Global Equities
+BCHP,Blue Chip ETF,Global Equities
+SPUN,Global Spin-Off ETF,Global Equities
+HACW,Currency Hedged MSCI ACWI ETF,Global Equities
+HAWX,Currency Hedged MSCI ACWI ex U.S. ETF,Global Equities
+ACWF,FactorSelect MSCI Global ETF,Global Equities
+RGRO,Global Growth Fund,Global Equities
+IPOS,International IPO ETF,Global Equities
+FPXI,International IPO ETF,Global Equities
+GURI,GURU International Index ETF,Global Equities
+FGHY,Barclays ETN+ FI Enhanced Global High Yield ETN,Global Equities
+RWX,SPDR DJ Wilshire Intl Real Estate,Global Real Estate
+VNQI,Global ex-U.S. Real Estate Index Fund,Global Real Estate
+RWO,SPDR DJ Wilshire Global Real Estate ETF,Global Real Estate
+IFGL,FTSE EPRA/NAREIT Global Real Estate ex-U.S. Index Fund,Global Real Estate
+WPS,International Developed Property ETF,Global Real Estate
+GQRE,Global Quality Real Estate Index Fund,Global Real Estate
+DRW,Global ex-US Real Estate Fund,Global Real Estate
+GRI,Cohen & Steers Global Realty Majors ETF,Global Real Estate
+FFR,FTSE EPRA/NAREIT Developed Markets Real Estate Index Fund,Global Real Estate
+IFEU,FTSE EPRA/NAREIT Europe Index Fund,Global Real Estate
+REET,Global REIT ETF,Global Real Estate
+TAO,China Real Estate ETF ,Global Real Estate
+HDRW,Global ex-U.S. Hedged Real Estate Fund,Global Real Estate
+DBRE,Dow Jones Hedged International Real Estate ETF,Global Real Estate
+EMRE,Emerging Markets Real Estate ETF,Global Real Estate
+SHY,1-3 Year Treasury Bond ETF,Government Bonds
+IEF,iShares 7-10 Year Treasury Bond ETF,Government Bonds
+TLT,20+ Year Treasury Bond ETF,Government Bonds
+IEI,iShares 3-7 Year Treasury Bond ETF,Government Bonds
+GOVT,iShares U.S. Treasury Bond ETF,Government Bonds
+SCHO,Schwab Short-Term U.S. Treasury ETF,Government Bonds
+VGSH,Short-Term Government Bond Index Fund,Government Bonds
+AGZ,iShares Agency Bond ETF,Government Bonds
+TLH,10-20 Year Treasury Bond ETF,Government Bonds
+SCHR,Schwab Intermediate-Term U.S. Treasury ETF,Government Bonds
+VGIT,Intermediate-Term Government Bond Index Fund,Government Bonds
+EDV,Extended Duration Treasury ETF,Government Bonds
+ITE,SPDR Barclays Intermediate Term Treasury ETF,Government Bonds
+VGLT,Long-Term Government Bond Index Fund,Government Bonds
+TLO,SPDR Barclays Long Term Treasury ETF,Government Bonds
+PLW,1-30 Treasury Ladder Portfolio,Government Bonds
+FTSD,Short Duration U.S. Government ETF,Government Bonds
+ZROZ,25+ Year Zero Coupon U.S. Treasury Index Fund,Government Bonds
+TUZ,1-3 Year US Treasury Index Fund,Government Bonds
+SST,SPDR Barclays Capital Short Term Treasury ETF,Government Bonds
+TIPX,SPDR Barclays 1-10 Year TIPS ETF,Government Bonds
+TENZ,7-15 Year U.S. Treasury Index Fund,Government Bonds
+TFLO,Treasury Floating Rate Bond ETF,Government Bonds
+FIVZ,3-7 Year U.S. Treasury Index Fund,Government Bonds
+DLBL,US Treasury Long Bond Bull ETN,Government Bonds
+DTYL,US Treasury 10-Year Bull ETN,Government Bonds
+DFVL,US Treasury 5-year Bull ETN,Government Bonds
+SIPE,SPDR Barclays 0-5 Year TIPS ETF,Government Bonds
+DTUL,US Treasury 2-Year Bull ETN,Government Bonds
+STPP,US Treasury Steepener ETN,Government Bonds
+USFR,Bloomberg Floating Rate Treasury Fund,Government Bonds
+XLV,Health Care Select Sector SPDR,Health & Biotech Equities
+IBB,Nasdaq Biotechnology,Health & Biotech Equities
+VHT,Health Care ETF,Health & Biotech Equities
+FXH,Health Care AlphaDEX,Health & Biotech Equities
+FBT,NYSE Arca Biotechnology Index Fund,Health & Biotech Equities
+XBI,SPDR S&P Biotech ETF,Health & Biotech Equities
+IYH,iShares U.S. Healthcare ETF,Health & Biotech Equities
+PJP,Dynamic Pharmaceuticals,Health & Biotech Equities
+IXJ,iShares Global Healthcare ETF,Health & Biotech Equities
+IHE,iShares U.S. Pharmaceuticals ETF,Health & Biotech Equities
+IHF,iShares U.S. Healthcare Providers ETF,Health & Biotech Equities
+FHLC,MSCI Health Care Index ETF,Health & Biotech Equities
+XPH,SPDR S&P Pharmaceuticals ETF,Health & Biotech Equities
+IHI,iShares U.S. Medical Devices ETF,Health & Biotech Equities
+BBH,Market Vectors Biotech ETF,Health & Biotech Equities
+RYH,S&P Equal Weight Health Care ETF,Health & Biotech Equities
+PBE,Dynamic Biotech &Genome,Health & Biotech Equities
+PPH,Market Vectors Pharmaceutical ETF,Health & Biotech Equities
+PSCH,S&P SmallCap Health Care Portfolio,Health & Biotech Equities
+PTH,DWA Healthcare Momentum,Health & Biotech Equities
+XHS,SPDR S&P Health Care Services ETF,Health & Biotech Equities
+SBIO,Medical Breakthroughs ETF,Health & Biotech Equities
+IRY,SPDR S&P International Health Care Sector ETF,Health & Biotech Equities
+XHE,SPDR S&P Health Care Equipment ETF,Health & Biotech Equities
+BBC,BioShares Biotechnology Clinical Trials Fund,Health & Biotech Equities
+BBP,BioShares Biotechnology Products Fund,Health & Biotech Equities
+JHMH,Multifactor Healthcare,Health & Biotech Equities
+JHMT,Multifactor Technology,Health & Biotech Equities
+ARKG,Genomic Revolution Multi-Sector ETF,Health & Biotech Equities
+CNCR,Cancer Immunotherapy ETF,Health & Biotech Equities
+QAI,IQ Hedge Multi-Strategy Tracker ETF,Hedge Fund
+WDTI,Managed Futures Strategy Fund,Hedge Fund
+ALFA,AlphaClone Alternative Alpha ETF,Hedge Fund
+MNA,IQ Merger Arbitrage ETF,Hedge Fund
+RLY,SPDR Multi-Asset Real Return ETF,Hedge Fund
+HDG,Hedge Replication ETF,Hedge Fund
+DIVY,DIVS ETF,Hedge Fund
+ALTS,Morningstar Alternatives Solution ETF,Hedge Fund
+CPI,IQ Real Return ETF,Hedge Fund
+QMN,IQ Hedge Market Neutral Tracker ETF,Hedge Fund
+MCRO,IQ Hedge Macro Tracker ETF,Hedge Fund
+FMF,First Trust Morningstar Managed Futures Strategy Fund,Hedge Fund
+DRVN,Highland HFR Event-Driven ETF,Hedge Fund
+HHFR,Highland HFR Global ETF,Hedge Fund
+HHDG,Highland HFR Equity Hedge ETF,Hedge Fund
+FUTS,ProShares Managed Futures Strategy ETF,Hedge Fund
+MRGR,Merger ETF,Hedge Fund
+QEH,QAM Equity Hedge ETF,Hedge Fund
+CSMA,X-Links Merger Arbitrage ETN,Hedge Fund
+RRF,Global Real Return Fund,Hedge Fund
+VAMO,Cambria Value and Momentum,Hedge Fund
+QED,IQ Hedge Event-Driven Tracker ETF,Hedge Fund
+QLS,IQ Hedge Long/Short Tracker ETF,Hedge Fund
+HYG,iShares iBoxx $ High Yield Corporate Bond ETF,High Yield Bonds
+JNK,SPDR Barclays Capital High Yield Bond ETF,High Yield Bonds
+BKLN,Senior Loan Portfolio,High Yield Bonds
+SJNK,SPDR Barclays Capital Short Term High Yield Bond ETF,High Yield Bonds
+HYS,0-5 Year High Yield Corporate Bond Index Fund,High Yield Bonds
+SHYG,0-5 Year High Yield Corporate Bond ETF,High Yield Bonds
+SRLN,SPDR Blackstone GSO Senior Loan ETF,High Yield Bonds
+BSJG,BulletShares 2016 High Yield Corporate Bond ETF,High Yield Bonds
+PHB,Fundamental High Yield Corporate Bond Portfolio,High Yield Bonds
+BSJH,BulletShares 2017 High Yield Corporate Bond ETF,High Yield Bonds
+HYLS,High Yield Long/Short ETF,High Yield Bonds
+BSJI,BulletShares 2018 High Yield Corporate Bond ETF,High Yield Bonds
+BSJF,BulletShares 2015 High Yield Corporate Bond ETF,High Yield Bonds
+FTSL,Senior Loan Fund,High Yield Bonds
+SNLN,Highland/iBoxx Senior Loan ETF ,High Yield Bonds
+HYEM,Market Vectors Emerging Markets High Yield Bond ETF,High Yield Bonds
+HYLD,Peritus High Yield ETF,High Yield Bonds
+BSJJ,BulletShares 2019 High Yield Corporate Bond ETF,High Yield Bonds
+HYXU,Global ex USD High Yield Corporate Bond Fund,High Yield Bonds
+IHY,Market Vectors International High Yield Bond ETF,High Yield Bonds
+GHYG,Global High Yield Corporate Bond Fund,High Yield Bonds
+HYHG,High Yield Interest Rate Hedged ETF,High Yield Bonds
+BSJK,BulletShares 2020 High Yield Corporate Bond ETF,High Yield Bonds
+EMHY,Emerging Markets High Yield Bond Fund,High Yield Bonds
+QLTB,Baa-Ba Rated Corporate Bond Fund,High Yield Bonds
+HYGH,Interest Rate Hedged High Yield Bond ETF,High Yield Bonds
+ANGL,Market Vectors Fallen Angel ETF,High Yield Bonds
+CJNK,SPDR BofA Merrill Lynch Crossover Corporate Bond ETF,High Yield Bonds
+PGHY,PowerShares Global Short Term High Yield Bond Portfolio,High Yield Bonds
+YPRO,YieldPro ETF,High Yield Bonds
+IJNK,SPDR Barclays International High Yield Bond ETF,High Yield Bonds
+BSJL,BulletShares 2021 High Yield Corporate Bond ETF,High Yield Bonds
+BSJM,BulletShares 2022 High Yield Corporate Bond ETF,High Yield Bonds
+HYZD,BofA Merrill Lynch High Yield Bond Zero Duration Fund,High Yield Bonds
+HYND,BofA Merrill Lynch High Yield Bond Negative Duration Fund,High Yield Bonds
+QLTC,B-Ca Rated Corporate Bond Fund,High Yield Bonds
+HYIH,High Yield Corporate Bond - Interest Rate Hedged ETF,High Yield Bonds
+WYDE,CDS Short North American HY Credit ETF,High Yield Bonds
+BSJN,BulletShares 2023 High Yield Corporate Bond ETF,High Yield Bonds
+THHY,Market Vectors Treasury-Hedged High Yield Bond ETF,High Yield Bonds
+TYTE,CDS North American HY Credit ETF,High Yield Bonds
+HHYX,Currency Hedged Global ex USD High Yield Bond ETF,High Yield Bonds
+XLI,Industrial Select Sector SPDR,Industrials Equities
+VIS,Industrials ETF,Industrials Equities
+IYJ,iShares U.S. Industrials ETF,Industrials Equities
+ITA,iShares U.S. Aerospace & Defense ETF,Industrials Equities
+FXR,Industrials/Producer Durables AlphaDEX Fund,Industrials Equities
+PPA,Aerospace & Defense,Industrials Equities
+EXI,iShares Global Industrials ETF,Industrials Equities
+XAR,SPDR S&P Aerospace & Defense ETF,Industrials Equities
+FIDU,MSCI Industrials Index ETF,Industrials Equities
+RGI,S&P Equal Weight Industrials ETF,Industrials Equities
+PRN,DWA Industrials Momentum,Industrials Equities
+PSCI,S&P SmallCap Industrials Portfolio,Industrials Equities
+AIRR,RBA American Industrial Renaissance ETF,Industrials Equities
+IPN,SPDR S&P International Industrial Sector ETF,Industrials Equities
+EVX,Market Vectors Environmental Services ETF,Industrials Equities
+ARKQ,Industrial Innovation ETF,Industrials Equities
+CHII,China Industrials ETF,Industrials Equities
+TIP,TIPS Bond ETF,Inflation-Protected Bonds
+TDTT,iBoxx 3-Year Target Duration TIPS Index Fund ,Inflation-Protected Bonds
+VTIP,Short-Term Inflation-Protected Securities Index Fund,Inflation-Protected Bonds
+STPZ,1-5 Year U.S. TIPS Index Fund,Inflation-Protected Bonds
+SCHP,Schwab U.S. TIPS ETF,Inflation-Protected Bonds
+WIP,SPDR DB International Government Inflation-Protected Bond ETF,Inflation-Protected Bonds
+IPE,SPDR Barclays Capital TIPS ETF,Inflation-Protected Bonds
+STIP,0-5 Year TIPS Bond ETF,Inflation-Protected Bonds
+TDTF,iBoxx 5-Year Target Duration TIPS Index Fund,Inflation-Protected Bonds
+LTPZ,15+ Year U.S. TIPS Index Fund,Inflation-Protected Bonds
+ILB,Global Advantage Inflation-Linked Bond Strategy Fund,Inflation-Protected Bonds
+TIPZ,Broad U.S. TIPS Index Fund,Inflation-Protected Bonds
+ITIP,iShares International Inflation-Linked Bond ETF,Inflation-Protected Bonds
+GTIP,iShares Global Inflation-Linked Bond ETF,Inflation-Protected Bonds
+BWX,SPDR Barclays Intl Treasury Bond,International Government Bonds
+IGOV,S&P/Citigroup International Treasury Fund,International Government Bonds
+BWZ,SPDR Barclays Capital Short Term International Treasury Bond ETF,International Government Bonds
+ISHG,S&P/Citi 1-3 Yr Intl Treasury Bd,International Government Bonds
+AUNZ,Australia & New Zealand Debt Fund,International Government Bonds
+ALD,Asia Local Debt Fund,International Government Bonds
+GGOV,German Sovereign/Sub-Sovereign ETF,International Government Bonds
+TBF,Short 20+ Year Treasury,Inverse Bonds
+TMV,Daily 20 Year Plus Treasury Bear 3x Shares,Inverse Bonds
+PST,UltraShort Barclays 7-10 Year Treasury,Inverse Bonds
+SJB,Short High Yield,Inverse Bonds
+DTYS,US Treasury 10-Year Bear ETN,Inverse Bonds
+TYO,Daily 7-10 Year Treasury Bear 3x Shares,Inverse Bonds
+TBX,Short 7-10 Year Treasury,Inverse Bonds
+DLBS,US Treasury Long Bond Bear ETN,Inverse Bonds
+JGBD,DB 3x Inverse Japanese Government Bond Futures ETN,Inverse Bonds
+TAPR,Barclays Inverse U.S. Treasury Composite ETN,Inverse Bonds
+JGBS,DB Inverse Japanese Government Bond Futures ETN,Inverse Bonds
+TYBS,Daily 20 Year Plus Treasury Bear 1x Shares,Inverse Bonds
+DTUS,US Treasury 2-Year Bear ETN,Inverse Bonds
+RISE,Sit Rising Rate,Inverse Bonds
+FLAT,US Treasury Flattener ETN,Inverse Bonds
+DFVS,US Treasury 5-year Bear ETN,Inverse Bonds
+SAGG,Daily Total Bond Market Bear 1x Shares,Inverse Bonds
+IGS,Short Investment Grade Corporate,Inverse Bonds
+TYNS,Daily 7-10 Year Treasury Bear 1x Shares,Inverse Bonds
+DNO,United States Short Oil Fund,Inverse Commodities
+DGZ,DB Gold Short ETN,Inverse Commodities
+SZO,DB Crude Oil Short ETN,Inverse Commodities
+DDP,DB Commodity Short ETN,Inverse Commodities
+BOS,DB Base Metals Short ETN,Inverse Commodities
+SH,Short S&P500,Inverse Equities
+RWM,Short Russell2000,Inverse Equities
+DOG,Short Dow30,Inverse Equities
+EUM,Short MSCI Emerging Markets,Inverse Equities
+PSQ,Short QQQ,Inverse Equities
+HDGE,Ranger Equity Bear ETF,Inverse Equities
+CHAD,Daily CSI 300 China A Share Bear 1x Shares,Inverse Equities
+JDST,Daily Junior Gold Miners Index Bear 3x Shares,Inverse Equities
+EFZ,Short MSCI EAFE,Inverse Equities
+LABD,Daily S&P Biotech Bear 3x Shares,Inverse Equities
+SEF,Short Financials,Inverse Equities
+MYY,Short MidCap400,Inverse Equities
+SBB,Short SmallCap600,Inverse Equities
+DDG,Short Oil & Gas,Inverse Equities
+YXI,Short FTSE/Xinhua China,Inverse Equities
+ZBIO,UltraPro Short NASDAQ Biotechnology,Inverse Equities
+MLPS,E-TRACS 1xMonthly Short Alerian MLP Infrastructure Total Return ETN,Inverse Equities
+DRIP,Daily S&P Oil & Gas Exp. & Prod. Bear 3x Shares,Inverse Equities
+CLAW,Daily Homebuilders & Supplies Bear 3x Shares ,Inverse Equities
+PILS,Daily Pharmaceutical & Medical Bear 2x Shares,Inverse Equities
+HAKD,Daily Cyber Security Bear 2x Shares,Inverse Equities
+WDRW,Direxion Daily Regional Banks Bear 3x Shares,Inverse Equities
+GDJS,UltraShort Junior Miners,Inverse Equities
+HBZ,UltraShort Homebuilders & Supplies,Inverse Equities
+TOTS,Daily Total Market Bear 1X Shares,Inverse Equities
+GDXS,UltraShort Gold Miners,Inverse Equities
+SBM,Short Basic Materials,Inverse Equities
+KRS,Short KBW Regional Banking,Inverse Equities
+XIV,Daily Inverse VIX Short-Term ETN,Inverse Volatility
+SVXY,Short VIX Short-Term Futures ETF,Inverse Volatility
+ZIV,Daily Inverse VIX Medium-Term ETN,Inverse Volatility
+IVOP,Inverse S&P 500 VIX Short-Term Futures ETN (II),Inverse Volatility
+XXV,Inverse S&P 500 VIX Short-Term Futures ETN,Inverse Volatility
+VXDN,Spot CBOE VIX Down Class Shares,Inverse Volatility
+EWJ,iShares MSCI Japan ETF,Japan Equities
+DXJ,Japan Hedged Equity Fund,Japan Equities
+DBJP,MSCI Japan Hedged Equity Fund,Japan Equities
+HEWJ,Currency Hedged MSCI Japan ETF,Japan Equities
+DFJ,Japan SmallCap Fund,Japan Equities
+SCJ,MSCI Japan Small-Cap ETF,Japan Equities
+DXJS,WisdomTree Japan Hedged SmallCap Equity Fund,Japan Equities
+ITF,iShares Japan Large-Cap ETF,Japan Equities
+FJP,Japan AlphaDEX Fund,Japan Equities
+JSC,SPDR Russell/Nomura Small Cap Japan,Japan Equities
+NKY,MAXIS Nikkei 225 Index ETF,Japan Equities
+DXJR,Japan Hedged Real Estate Fund,Japan Equities
+JPMV,iShares MSCI Japan Minimum Volatility ETF,Japan Equities
+JPP,SPDR Russell/Nomura PRIME Japan ETF,Japan Equities
+HGJP,Hedged FTSE Japan ETF,Japan Equities
+HFXJ,IQ 50 Percent Hedged FTSE Japan ETF,Japan Equities
+DXJF,Japan Hedged Financials Fund,Japan Equities
+QJPN,SPDR MSCI Japan Quality Mix ETF,Japan Equities
+JPN,Japan JPX-Nikkei 400 Equity ETF,Japan Equities
+DXJH,Japan Hedged Health Care Fund,Japan Equities
+DXJT,"Japan Hedged Tech, Media and Telecom Fund",Japan Equities
+DXJC,Japan Hedged Capital Goods Fund,Japan Equities
+SCIJ,Scientific Beta Japan ETF,Japan Equities
+JDG,Japan Dividend Growth Fund,Japan Equities
+SPY,SPDR S&P 500,Large Cap Blend Equities
+IVV,Core S&P 500 ETF,Large Cap Blend Equities
+VOO,S&P 500 ETF,Large Cap Blend Equities
+IWB,iShares Russell 1000 ETF,Large Cap Blend Equities
+RSP,S&P Equal Weight ETF,Large Cap Blend Equities
+VV,Large-Cap ETF,Large Cap Blend Equities
+SPLV,S&P 500 Low Volatility Portfolio,Large Cap Blend Equities
+SCHX,Schwab U.S. Large-Cap ETF,Large Cap Blend Equities
+OEF,iShares S&P 100 ETF,Large Cap Blend Equities
+FV,Dorsey Wright Focus 5 ETF,Large Cap Blend Equities
+FEX,Large Cap Core AlphaDEX Fund,Large Cap Blend Equities
+MGC,Mega Cap 300 ETF,Large Cap Blend Equities
+JKD,iShares Morningstar Large-Cap ETF,Large Cap Blend Equities
+SPHQ,S&P 500 High Quality Portfolio,Large Cap Blend Equities
+VONE,Russell 1000 ETF,Large Cap Blend Equities
+XLG,Russell Top 50 ETF,Large Cap Blend Equities
+TRND,US Large Cap Trendpilot ETN,Large Cap Blend Equities
+DSI,KLD 400 Social Index Fund,Large Cap Blend Equities
+CSM,ProShares Large Cap Core Plus ETF ,Large Cap Blend Equities
+RWL,Large Cap Fund,Large Cap Blend Equities
+KLD,iShares MSCI USA ESG Select ETF,Large Cap Blend Equities
+PBP,S&P 500 BuyWrite Portfolio,Large Cap Blend Equities
+EQAL,Russell 1000 Equal Weight Portfolio,Large Cap Blend Equities
+EQL,Equal Sector Weight ETF,Large Cap Blend Equities
+CFO,U.S. 500 Enhanced Volatility Weighted Index ETF,Large Cap Blend Equities
+XRLV,S&P 500 ex-Rate Sensitive Low Volatility Portfolio,Large Cap Blend Equities
+GSLC,ActiveBeta U.S. Large Cap Equity ETF,Large Cap Blend Equities
+IWL,iShares Russell Top 200 ETF,Large Cap Blend Equities
+SPHB,S&P 500 High Beta Portfolio,Large Cap Blend Equities
+EWRI,Russell 1000 Equal Weight ETF,Large Cap Blend Equities
+HSPX,Horizons S&P 500 Covered Call ETF,Large Cap Blend Equities
+ELR,SPDR DJ Wilshire Large Cap ETF,Large Cap Blend Equities
+EQWL,Russell Top 200 Equal Weight Portfolio,Large Cap Blend Equities
+FWDD,Madrona Forward Domestic ETF,Large Cap Blend Equities
+LGLV,SPDR Russell 1000 Low Volatility ETF,Large Cap Blend Equities
+CAPE,The Barclays ETN + Shiller CAPE ETN,Large Cap Blend Equities
+WIL,Women in Leadership ETN,Large Cap Blend Equities
+JPUS,Diversified Return U.S. Equity,Large Cap Blend Equities
+IBLN,iBillionaire Index ETF,Large Cap Blend Equities
+VALX,Validea Market Legends ETF,Large Cap Blend Equities
+CFA,U.S. 500 Volatility Weighted Index ETF,Large Cap Blend Equities
+QYLD,Recon Capital NASDAQ 100 Covered Call ETF,Large Cap Blend Equities
+VSPY,Direxion S&P 500 RC Volatility Response Shares,Large Cap Blend Equities
+SPGH,E-TRACS S&P 500 Gold Hedged ETN,Large Cap Blend Equities
+FMK,Mega Cap AlphaDEX Fund,Large Cap Blend Equities
+JHML,Multifactor Large Cap,Large Cap Blend Equities
+JHMC,Multifactor Consumer Discretionary,Large Cap Blend Equities
+DHVW,Valuation-Weighted 500 ETF,Large Cap Blend Equities
+SPYB,SPDR S&P 500 Buyback ETF,Large Cap Blend Equities
+BWV,CBOE S&P 500 BuyWrite Index ETN,Large Cap Blend Equities
+IQLT,MSCI International Developed Quality Factor ,Large Cap Blend Equities
+IMTM,MSCI International Developed Momentum Factor,Large Cap Blend Equities
+QVM,QVM Equity Factor,Large Cap Blend Equities
+QUS,SPDR MSCI USA Quality Mix ETF,Large Cap Blend Equities
+SPYD,S&P 500 High Dividend ETF,Large Cap Blend Equities
+SPXV,S&P 500 Ex-Health Care,Large Cap Blend Equities
+SPXN,S&P 500 Ex-Financials,Large Cap Blend Equities
+SPXE,S&P 500 Ex-Energy,Large Cap Blend Equities
+SPXT,S&P 500 Ex-Technology,Large Cap Blend Equities
+SYE,SPDR MFS Systematic Core Equity ETF,Large Cap Blend Equities
+SCIU,Scientific Beta US ETF,Large Cap Blend Equities
+ZLRG,Zacks Earnings Large-Cap U.S. Index Fund,Large Cap Blend Equities
+USSD,Strong Dollar U.S. Equity Fund,Large Cap Blend Equities
+USWD,Weak Dollar U.S. Equity Fund,Large Cap Blend Equities
+ERW,VelocityShares Equal Risk Weighted Large Cap ETF,Large Cap Blend Equities
+EEH,SPECTRUM Lg Cap U.S. Sector ETN,Large Cap Blend Equities
+QGTA,Leaders GTAA Tracker,Large Cap Blend Equities
+SLOW,Sector Low Volatility ETF,Large Cap Blend Equities
+UK,FTSE 100 ETF,Large Cap Blend Equities
+QQQ,QQQ,Large Cap Growth Equities
+IWF,iShares Russell 1000 Growth ETF,Large Cap Growth Equities
+VUG,Growth ETF,Large Cap Growth Equities
+IVW,iShares S&P 500 Growth ETF,Large Cap Growth Equities
+SCHG,Schwab U.S. Large-Cap Growth ETF,Large Cap Growth Equities
+RPG,S&P 500 Pure Growth ETF,Large Cap Growth Equities
+MGK,Mega Cap 300 Growth,Large Cap Growth Equities
+IUSG,Core U.S. Growth ETF,Large Cap Growth Equities
+JKE,iShares Morningstar Large-Cap Value ETF,Large Cap Growth Equities
+FTC,Large Cap Growth AlphaDEX Fund,Large Cap Growth Equities
+VOOG,S&P 500 Growth ETF,Large Cap Growth Equities
+SPYG,SPDR S&P 500 Growth ETF,Large Cap Growth Equities
+QQEW,NASDAQ-100 Equal Weighted Index Fund,Large Cap Growth Equities
+IWY,iShares Russell Top 200 Growth ETF,Large Cap Growth Equities
+VONG,Russell 1000 Growth ETF,Large Cap Growth Equities
+PWB,Dynamic LargeCap Growth,Large Cap Growth Equities
+QQXT,NASDAQ-100 Ex-Technology Sector Index,Large Cap Growth Equities
+FBG,AG FI Enhanced Big Cap Growth ETN,Large Cap Growth Equities
+PXLG,PowerShares Russell Top 200 Pure Growth Portfolio,Large Cap Growth Equities
+WBIE,WBI Large Cap Tactical Growth Shares,Large Cap Growth Equities
+QQQE,NASDAQ-100 Equal Weighted Index Shares,Large Cap Growth Equities
+CFGE,Focus Growth ETF,Large Cap Growth Equities
+RPX,Large Cap Growth ETF,Large Cap Growth Equities
+SYG,SPDR MFS Systematic Growth Equity ETF,Large Cap Growth Equities
+RWG,Select Large Cap Growth ETF,Large Cap Growth Equities
+CAPX,S&P 500 Capital Expenditures Portfolio,Large Cap Growth Equities
+SLDR,Sector Leaders ETF,Large Cap Growth Equities
+IWD,iShares Russell 1000 Value ETF,Large Cap Value Equities
+VIG,Dividend Appreciation ETF,Large Cap Value Equities
+VTV,Value ETF,Large Cap Value Equities
+DVY,iShares Select Dividend ETF,Large Cap Value Equities
+SDY,SPDR S&P Dividend ETF,Large Cap Value Equities
+DIA,Dow Jones Industrial Average ETF,Large Cap Value Equities
+VYM,High Dividend Yield ETF,Large Cap Value Equities
+IVE,iShares S&P 500 Value ETF,Large Cap Value Equities
+PRF,FTSE RAFI US 1000 Portfolio,Large Cap Value Equities
+HDV,iShares High Dividend ETF,Large Cap Value Equities
+DLN,LargeCap Dividend Fund,Large Cap Value Equities
+SCHV,Schwab U.S. Large-Cap Value ETF,Large Cap Value Equities
+FVD,Value Line Dividend Index Fund,Large Cap Value Equities
+SDOG,Sector Dividend Dogs ETF,Large Cap Value Equities
+FTA,Large Cap Value AlphaDEX Fund,Large Cap Value Equities
+MGV,Mega Cap 300 Value,Large Cap Value Equities
+PWV,Dynamic LargeCap Value,Large Cap Value Equities
+DTN,Dividend ex-Financials Fund,Large Cap Value Equities
+DHS,Equity Income Fund,Large Cap Value Equities
+NOBL,S&P 500 Aristocrats ETF,Large Cap Value Equities
+FNDX,Schwab Fundamental U.S. Large Company Index ETF,Large Cap Value Equities
+FDL,Morningstar Dividend Leaders Index Fund,Large Cap Value Equities
+RPV,S&P 500 Pure Value ETF,Large Cap Value Equities
+IUSV,Core U.S. Value ETF,Large Cap Value Equities
+VLUE,MSCI USA Value Factor ETF,Large Cap Value Equities
+DGRW,U.S. Dividend Growth Fund,Large Cap Value Equities
+CVY,Multi-Asset Income ETF,Large Cap Value Equities
+SPHD,S&P 500 High Dividend Portfolio,Large Cap Value Equities
+DTD,Total Dividend Fund,Large Cap Value Equities
+VONV,Russell 1000 Value ETF,Large Cap Value Equities
+VOOV,S&P 500 Value ETF,Large Cap Value Equities
+PFM,Dividend Achievers,Large Cap Value Equities
+DIV,SuperDividend U.S. ETF,Large Cap Value Equities
+JKF,Morningstar Large Value Index Fund,Large Cap Value Equities
+DGRO,Core Dividend Growth ETF,Large Cap Value Equities
+SPYV,SPDR S&P 500 Value ETF,Large Cap Value Equities
+DVP,Deep Value ETF,Large Cap Value Equities
+DEF,Defensive Equity ETF ,Large Cap Value Equities
+SYLD,Cambria Shareholder Yield ETF,Large Cap Value Equities
+IWX,iShares Russell Top 200 Value ETF,Large Cap Value Equities
+EPS,Earnings 500 Fund,Large Cap Value Equities
+WBIG,WBI Large Cap Tactical Yield Shares,Large Cap Value Equities
+WBIL,WBI Large Cap Tactical Select Shares,Large Cap Value Equities
+WBIF,WBI Large Cap Tactical Value Shares,Large Cap Value Equities
+FTCS,First Trust Capital Strength ETF,Large Cap Value Equities
+DIVC,Miller/Howard Strategic Dividend Reinvestor ETN,Large Cap Value Equities
+CDC,U.S. EQ Income 100 Enhanced Volatility Weighted Index ETF,Large Cap Value Equities
+IELG,Enhanced U.S. Large-Cap ETF,Large Cap Value Equities
+EXT,Total Earnings Fund,Large Cap Value Equities
+RDIV,Ultra Dividend Fund,Large Cap Value Equities
+QVAL,U.S. Quantitative Value ETF,Large Cap Value Equities
+EZY,LargeCap Value Fund,Large Cap Value Equities
+PXLV,PowerShares Russell Midcap Pure Value Portfolio,Large Cap Value Equities
+DOD,DJ High Yield Select 10 ETN,Large Cap Value Equities
+RDVY,NASDAQ Rising Dividend Achievers ETF,Large Cap Value Equities
+OUSA,O'Shares FTSE US Quality Dividend ETF,Large Cap Value Equities
+ROUS,US Equity Strategy ETF,Large Cap Value Equities
+SBUS,Diversified-Factor U.S. Large Cap Index Fund,Large Cap Value Equities
+VLML,Value Line Mid- and Large-Cap High Dividend ETF,Large Cap Value Equities
+FTHI,High Income ETF,Large Cap Value Equities
+GVT,Select Large Cap Value ETF,Large Cap Value Equities
+LRGF,FactorSelect MSCI USA ETF,Large Cap Value Equities
+VLLV,Value Line Conservative Equity ETF,Large Cap Value Equities
+FTLB,Low Beta Income ETF,Large Cap Value Equities
+CDL,US Large Cap High Dividend 100 Volatility Weighted Index ETF,Large Cap Value Equities
+SYV,SPDR MFS Systematic Value Equity ETF,Large Cap Value Equities
+EWZ,iShares MSCI Brazil Capped ETF,Latin America Equities
+EWW,iShares MSCI Mexico Capped ETF,Latin America Equities
+ILF,iShares Latin America 40 ETF,Latin America Equities
+ECH,iShares MSCI Chile Capped ETF,Latin America Equities
+EPU,iShares MSCI All Peru Capped ETF,Latin America Equities
+BRF,Market Vectors Brazil Small-Cap ETF,Latin America Equities
+GXG,InterBolsa FTSE Colombia 20 ETF,Latin America Equities
+BRZU,Direxion Daily Brazil Bull 3x Shares,Latin America Equities
+EWZS,iShares MSCI Brazil Small-Cap ETF,Latin America Equities
+GML,SPDR S&P Emerging Latin America ETF,Latin America Equities
+ARGT,FTSE Argentina 20 ETF,Latin America Equities
+ICOL,iShares MSCI Colombia Capped ETF,Latin America Equities
+EEML,MSCI Emerging Markets Latin America Index Fund,Latin America Equities
+DBMX,db X-trackers MSCI Mexico Hedged Equity Fund,Latin America Equities
+FLN,Latin America AlphaDEX Fund,Latin America Equities
+BRAZ,Brazil Mid Cap ETF,Latin America Equities
+DBBR,MSCI Brazil Hedged Equity Fund,Latin America Equities
+AND,FTSE Andean 40 ETF,Latin America Equities
+HEWW,Currency Hedged MSCI Mexico ETF,Latin America Equities
+QMEX,MSCI Mexico Quality Mix ETF,Latin America Equities
+FBZ,Brazil AlphaDEX Fund,Latin America Equities
+TBT,UltraShort Barclays 20+ Year Treasury,Leveraged Bonds
+TTT,UltraPro Short 20+ Year Treasury,Leveraged Bonds
+UST,Ultra 7-10 Year Treasury,Leveraged Bonds
+TMF,Daily 20 Year Plus Treasury Bull 3x Shares,Leveraged Bonds
+UBT,Ultra 20+ Year Treasury,Leveraged Bonds
+SBND,3x Short 25+ Year Treasury Bond ETN,Leveraged Bonds
+ITLT,DB 3x Italian Treasury Bond Futures ETN,Leveraged Bonds
+BUNT,3x German Bund Futures ETN,Leveraged Bonds
+LBND,3x Long 25+ Year Treasury Bond ETN,Leveraged Bonds
+TYD,Daily 7-10 Year Treasury Bull 3x Shares,Leveraged Bonds
+SYTL,Daily 7-10 Year Treasury Bull 2x Shares,Leveraged Bonds
+JGBT,DB 3x Japanese Government Bond Futures ETN,Leveraged Bonds
+IGU,Ultra Investment Grade Corporate,Leveraged Bonds
+TBZ,UltraShort 3-7 Year Treasury,Leveraged Bonds
+UJB,Ultra High Yield,Leveraged Bonds
+TPS,UltraShort TIPS,Leveraged Bonds
+UWTI,3x Long Crude ETN,Leveraged Commodities
+UCO,Ultra DJ-UBS Crude Oil,Leveraged Commodities
+UGAZ,3x Long Natural Gas ETN,Leveraged Commodities
+AGQ,Ultra Silver,Leveraged Commodities
+DWTI,3x Inverse Crude ETN,Leveraged Commodities
+SCO,UltraShort DJ-UBS Crude Oil,Leveraged Commodities
+USLV,3x Long Silver ETN,Leveraged Commodities
+DGP,DB Gold Double Long ETN,Leveraged Commodities
+GLL,UltraShort Gold,Leveraged Commodities
+UGL,Ultra Gold,Leveraged Commodities
+DZZ,DB Gold Double Short ETN,Leveraged Commodities
+ZSL,UltraShort Silver,Leveraged Commodities
+DGAZ,3x Inverse Natural Gas ETN,Leveraged Commodities
+DTO,DB Crude Oil Dble Short ETN,Leveraged Commodities
+BOIL,Ultra DJ-UBS Natural Gas,Leveraged Commodities
+UGLD,3x Long Gold ETN,Leveraged Commodities
+DSLV,3x Inverse Silver ETN,Leveraged Commodities
+DGLD,3x Inverse Gold ETN,Leveraged Commodities
+KOLD,UltraShort DJ-UBS Natural Gas,Leveraged Commodities
+UCD,Ultra DJ-UBS Commodity,Leveraged Commodities
+DAG,DB Agriculture Double Long ETN,Leveraged Commodities
+CMD,UltraShort DJ-UBS Commodity,Leveraged Commodities
+BOM,DB Base Metals Dble Shrt ETN,Leveraged Commodities
+DEE,DB Commodity Double Short ETN,Leveraged Commodities
+BDD,DB Base Metals Dble Long ETN,Leveraged Commodities
+DYY,DB Commodity Double Long ETN,Leveraged Commodities
+EUO,UltraShort Euro,Leveraged Currency
+YCS,UltraShort Yen,Leveraged Currency
+DRR,Market Vectors-Double Short Euro ETN,Leveraged Currency
+CROC,UltraShort Australian Dollar,Leveraged Currency
+ULE,Ultra Euro,Leveraged Currency
+YCL,Ultra Yen,Leveraged Currency
+URR,Market Vectors-Double Long Euro ETN,Leveraged Currency
+SSO,Ultra S&P500,Leveraged Equities
+SDS,UltraShort S&P500,Leveraged Equities
+FAS,Daily Financial Bull 3X Shares,Leveraged Equities
+TQQQ,UltraPro QQQ,Leveraged Equities
+QLD,Ultra QQQ,Leveraged Equities
+UPRO,UltraPro S&P 500,Leveraged Equities
+FBGX,UBS AG FI Enhanced Large Cap Growth ETN,Leveraged Equities
+TNA,Daily Small Cap Bull 3X Shares,Leveraged Equities
+UYG,Ultra Financials,Leveraged Equities
+BIB,Ultra Nasdaq Biotechnology,Leveraged Equities
+FLGE,FI Large Cap Growth Enhanced ETN,Leveraged Equities
+SPXU,UltraPro Short S&P500,Leveraged Equities
+SPXL,Daily S&P 500 Bull 3x Shares,Leveraged Equities
+NUGT,Daily Gold Miners Bull 3x Shares,Leveraged Equities
+ERX,Daily Energy Bull 3X Shares,Leveraged Equities
+TZA,Daily Small Cap Bear 3X Shares,Leveraged Equities
+SQQQ,UltraPro Short QQQ,Leveraged Equities
+QID,UltraShort QQQ,Leveraged Equities
+SPXS,Daily S&P 500 Bear 3x Shares,Leveraged Equities
+CURE,Daily Healthcare Bull 3X Shares,Leveraged Equities
+DUST,Daily Gold Miners Bear 3x Shares,Leveraged Equities
+FAZ,Daily Financial Bear 3X Shares,Leveraged Equities
+DDM,Ultra Dow30,Leveraged Equities
+MLPL,E-TRACS 2x Leveraged Long Alerian MLP Infrastructure Index,Leveraged Equities
+BDCL,E-TRACS 2xLeveraged Long Wells Fargo Business Development Company ETN,Leveraged Equities
+DXD,UltraShort Dow30,Leveraged Equities
+RUSL,Daily Russia Bull 3x Shares,Leveraged Equities
+TECL,Daily Technology Bull 3x Shares,Leveraged Equities
+EDC,Daily Emerging Markets Bull 3X Shares,Leveraged Equities
+UDOW,UltraPro Dow30,Leveraged Equities
+TWM,UltraShort Russell2000,Leveraged Equities
+UWM,Ultra Russell2000,Leveraged Equities
+YINN,Daily China Bull 3x Shares,Leveraged Equities
+CEFL,ETRACS Monthly Pay 2xLeveraged Closed-End Fund ETN,Leveraged Equities
+SDOW,UltraPro Short Dow30,Leveraged Equities
+RXL,Ultra Health Care,Leveraged Equities
+LABU,Daily S&P Biotech Bull 3x Shares,Leveraged Equities
+DIG,Ultra Oil & Gas,Leveraged Equities
+ROM,Ultra Technology,Leveraged Equities
+SOXL,Daily Semiconductor Bull 3x Shares,Leveraged Equities
+MVV,Ultra MidCap400,Leveraged Equities
+BIS,UltraShort Nasdaq Biotechnology,Leveraged Equities
+EDZ,Daily Emerging Markets Bear 3X Shares,Leveraged Equities
+YANG,Daily China Bear 3x Shares,Leveraged Equities
+JNUG,Daily Junior Gold Miners Index Bull 3x Shares,Leveraged Equities
+INDL,Daily India Bull 2x Shares,Leveraged Equities
+URTY,UltraPro Russell2000,Leveraged Equities
+CHAU,Daily CSI 300 China A Share Bull 2x Shares,Leveraged Equities
+SRTY,UltraPro Short Russell2000,Leveraged Equities
+ERY,Daily Energy Bear 3X Shares,Leveraged Equities
+EEV,UltraShort MSCI Emerging Markets,Leveraged Equities
+RETL,Daily Retail Bull 3x Shares,Leveraged Equities
+MIDU,Daily Mid Cap Bull 3x Shares,Leveraged Equities
+FXP,Ultrashort FTSE/Xinhua China,Leveraged Equities
+UYM,Ultra Basic Materials,Leveraged Equities
+SKF,UltraShort Financials,Leveraged Equities
+GASL,Daily Natural Gas Related Bull 3x Shares,Leveraged Equities
+EPV,UltraShort MSCI Europe ETF,Leveraged Equities
+UBIO,UltraPro NASDAQ Biotechnology,Leveraged Equities
+DVYL,ETRACS Monthly Pay 2x Leveraged Dow Jones Select Dividend Index ETN,Leveraged Equities
+DUG,UltraShort Oil & Gas,Leveraged Equities
+RUSS,Daily Russia Bear 3x Shares,Leveraged Equities
+UMDD,UltraPro MidCap400,Leveraged Equities
+SOXS,Daily Semiconductor Bear 3x Shares ,Leveraged Equities
+DZK,Daily Developed Markets Bull 3x Shares,Leveraged Equities
+SPLX,ETRACS Monthly Reset 2x Leveraged S&P 500 Total Return ETN,Leveraged Equities
+UPV,Ultra MSCI Europe,Leveraged Equities
+BZQ,UltraShort MSCI Brazil,Leveraged Equities
+UCC,Ultra Consumer Services,Leveraged Equities
+XPP,Ultra FTSE/Xinhua China 25,Leveraged Equities
+USD,Ultra Semiconductors,Leveraged Equities
+HDLV,Monthly Pay 2x Leveraged US High Dividend Low Volatility ,Leveraged Equities
+LBDC,ETRACS 2xLeveraged Long Wells Fargo Business Development Company Index ETN Series B,Leveraged Equities
+LMLP,ETRACS Monthly Pay 2xLeveraged Wells Fargo MLP Ex-Energy ETN ,Leveraged Equities
+HOML,ETRACS Monthly Reset 2xLeveraged ISE Exclusively Homebuilders ETN,Leveraged Equities
+UPW,Ultra Utilities,Leveraged Equities
+EFO,Ultra MSCI EAFE,Leveraged Equities
+UGE,Ultra Consumer Goods,Leveraged Equities
+SDYL,ETRACS Monthly Pay 2x Leveraged S&P Dividend ETN,Leveraged Equities
+SAA,Ultra SmallCap600,Leveraged Equities
+EET,Ultra MSCI Emerging Markets,Leveraged Equities
+UXI,Ultra Industrials,Leveraged Equities
+SMN,UltraShort Basic Materials,Leveraged Equities
+MLPV,ETRACS 2xMonthly Leveraged S&P MLP Index ETN,Leveraged Equities
+TECS,Daily Technology Bear 3x Shares,Leveraged Equities
+EZJ,Ultra MSCI Japan,Leveraged Equities
+SMHD,ETRACS Monthly Pay 2xLeveraged US Small Cap High Dividend ETN,Leveraged Equities
+EWV,UltraShort MSCI Japan,Leveraged Equities
+JPNL,The Direxion Daily Japan Bull 3X Shares,Leveraged Equities
+FINU,UltraPro Financials,Leveraged Equities
+GUSH,Daily S&P Oil & Gas Exp. & Prod. Bull 3x Shares,Leveraged Equities
+LBJ,Daily Latin America 3x Bull Shares,Leveraged Equities
+DPK,Daily Developed Markets Bear 3x Shares,Leveraged Equities
+KRU,Ultra KBW Regional Banking,Leveraged Equities
+MIDZ,Daily Mid Cap Bear 3x Shares,Leveraged Equities
+SPUU,Daily S&P 500 Bull 2x ETF,Leveraged Equities
+MZZ,UltraShort MidCap400,Leveraged Equities
+REW,UltraShort Technology,Leveraged Equities
+EFU,UltraShort MSCI EAFE,Leveraged Equities
+SIJ,UltraShort Industrials,Leveraged Equities
+SMDD,UltraPro Short MidCap400,Leveraged Equities
+LTL,Ultra Telecommunications ProShares,Leveraged Equities
+FINZ,UltraPro Short Financials,Leveraged Equities
+UMX,Ultra MSCI Mexico Investable Market,Leveraged Equities
+SDD,UltraShort SmallCap600,Leveraged Equities
+SDP,UltraShort Utilities,Leveraged Equities
+RXD,UltraShort Health Care,Leveraged Equities
+UBR,Ultra MSCI Brazil,Leveraged Equities
+DPST,Direxion Daily Regional Banks Bull 3x Shares,Leveraged Equities
+HAKK,Daily Cyber Security Bull 2X Shares,Leveraged Equities
+PILL,Daily Pharmaceutical & Medical Bull 2x Shares,Leveraged Equities
+SSG,UltraShort Semiconductors,Leveraged Equities
+NAIL, Daily Homebuilders & Supplies Bull 3x Shares ,Leveraged Equities
+HBU,Ultra Homebuilders & Supplies,Leveraged Equities
+SCC,UltraShort Consumer Services,Leveraged Equities
+SOP,UltraShort Oil & Gas Exploration & Production,Leveraged Equities
+MATL,Daily Basic Materials Bull 3X Shares,Leveraged Equities
+RTLA,Long Extended Russell 2000 TR Index ETN,Leveraged Equities
+EMSA,Short Enhanced MSCI Emerging Markets Index ETN,Leveraged Equities
+HEGE,Daily MSCI Europe Currency Hedged Bull 2x Shares,Leveraged Equities
+UOP,Ultra Oil & Gas Exploration & Production,Leveraged Equities
+GDJJ,Ultra Junior Miners,Leveraged Equities
+HEGJ,Daily MSCI Japan Currency Hedged Bull 2x Shares,Leveraged Equities
+EMLB,Long Enhanced MSCI Emerging Markets Index ETN,Leveraged Equities
+UXJ,Ultra MSCI Pacific ex-Japan,Leveraged Equities
+SZK,UltraShort Consumer Goods,Leveraged Equities
+LLDM,Daily FTSE Developed Markets Bull 1.25x Shares,Leveraged Equities
+LLSP,Daily S&P 500 Bull 1.25x Shares,Leveraged Equities
+LLSC,Daily Small Cap Bull 1.25x Shares,Leveraged Equities
+JPX,UltraShort MSCI Pacific ex-Japan,Leveraged Equities
+SMK,UltraShort MSCI Mexico,Leveraged Equities
+LLEM,Daily FTSE Emerging Markets Bull 1.25x Shares,Leveraged Equities
+GDXX,Ultra Gold Miners,Leveraged Equities
+ROLA,Long Extended Russell 1000 TR Index ETN,Leveraged Equities
+TLL,UltraShort Telecommunications,Leveraged Equities
+DVHL,ETRACS Monthly Pay 2xLeveraged Diversified High Income ETN,Leveraged Multi-Asset
+MORL,ETRACS Monthly Pay 2xLeveraged Mortgage REIT ETN,Leveraged Real Estate
+URE,Ultra Real Estate,Leveraged Real Estate
+DRN,Daily Real Estate Bull 3x Shares,Leveraged Real Estate
+REK,Short Real Estate,Leveraged Real Estate
+SRS,UltraShort Real Estate,Leveraged Real Estate
+LRET,ETRACS Monthly Pay 2xLeveraged MSCI US REIT Index ETN,Leveraged Real Estate
+RWXL,ETRACS Monthly Pay 2x Leveraged Dow Jones International Real Estate ETN,Leveraged Real Estate
+DRV,Daily Real Estate Bear 3x Shares,Leveraged Real Estate
+UVXY,Ultra VIX Short-Term Futures ETF,Leveraged Volatility
+TVIX,Daily 2x VIX Short-Term ETN,Leveraged Volatility
+TVIZ,Daily 2x VIX Medium-Term ETN,Leveraged Volatility
+HVPW,US Equity High Volatility Put Write Index Fund,Long-Short
+RALS,RAFI Long/Short,Long-Short
+FTLS,Long/Short Equity ETF,Long-Short
+CSLS,X-Links Long/Short Equity ETN,Long-Short
+HTUS,Hull Tactical US ETF,Long-Short
+LALT,Multi-Strategy Alternative Portfolio,Long-Short
+FLAG,WeatherStorm Forensic Accounting Long-Short ETF,Long-Short
+BTAL,U.S. Market Neutral Anti-Beta Fund,Long-Short
+AGLS,Accuvest Global Long Short ETF,Long-Short
+LSC,S&P CTI ETN,Long-Short
+JGBB,Japan Interest Rate Strategy Fund,Long-Short
+DIVA,Hedged Dividend Income Fund,Long-Short
+RINF,30 Year TIPS/TSY Spread,Long-Short
+MOM,U.S. Market Neutral Momentum Fund,Long-Short
+PUTX,Enhanced Put Write Strategy ETF,Long-Short
+CHEP,U.S. Market Neutral Value Fund,Long-Short
+SIZ,U.S. Market Neutral Size Fund,Long-Short
+XLB,Materials Select Sector SPDR,Materials
+VAW,Materials ETF,Materials
+IYM,iShares U.S. Basic Materials ETF,Materials
+MXI,iShares Global Materials ETF,Materials
+FXZ,Materials AlphaDEX Fund,Materials
+FMAT,MSCI Materials Index ETF,Materials
+PYZ,DWA Basic Materials Momentum ,Materials
+RTM,S&P Equal Weight Materials ETF,Materials
+PSCM,S&P SmallCap Materials Portfolio,Materials
+IRV,SPDR S&P International Materials Sector ETF,Materials
+CHIM,China Materials ETF,Materials
+DBB,DB Base Metals Fund,Metals
+JJC,DJ-UBS Copper Total Return Sub-Index ETN,Metals
+RJZ,Rogers Intl Commodity Metal ETN,Metals
+JJM,DJ-UBS Industrial Metals Total Return Sub-Index ETN,Metals
+JJN,DJ-UBS Nickel Total Return Sub-Index ETN,Metals
+UBM,E-TRACS UBS Bloomberg CMCI Ind Metal ETN,Metals
+LEDD,Pure Beta Lead ETN,Metals
+CPER,United States Copper Index Fund,Metals
+JJU,Dow Jones-UBS Aluminum Total Return Sub-Index ETN,Metals
+JJT,Dow Jones-UBS Tin Total Return Sub-Index ETN,Metals
+CUPM,Pure Beta Copper ETN,Metals
+FOIL,Pure Beta Aluminum ETN,Metals
+NINI,Pure Beta Nickel ETN,Metals
+LD,Dow Jones-UBS Lead Total Return Sub-Index,Metals
+HEVY,Pure Beta Industrial Metals ETN,Metals
+IJH,Core S&P Mid-Cap ETF,Mid Cap Blend Equities
+MDY,SPDR MidCap Trust Series I,Mid Cap Blend Equities
+IWR,iShares Russell Mid-Cap ETF,Mid Cap Blend Equities
+VO,Mid-Cap ETF,Mid Cap Blend Equities
+VXF,Extended Market ETF,Mid Cap Blend Equities
+SCHM,Schwab U.S. Mid-Cap ETF,Mid Cap Blend Equities
+FNX,Mid Cap Core AlphaDEX,Mid Cap Blend Equities
+JKG,iShares Morningstar Mid-Cap ETF,Mid Cap Blend Equities
+IVOO,S&P Mid-Cap 400 ETF,Mid Cap Blend Equities
+RWK,Mid Cap Fund,Mid Cap Blend Equities
+CZA,Mid-Cap Core ETF ,Mid Cap Blend Equities
+EWRM,Russell Midcap Equal Weight ETF,Mid Cap Blend Equities
+XMLV,S&P MidCap Low Volatility Portfolio,Mid Cap Blend Equities
+EQWM,Russell Midcap Equal Weight Portfolio,Mid Cap Blend Equities
+REGL,S&P MidCap 400 Dividend Aristocrats,Mid Cap Blend Equities
+JHMM,Multifactor Mid-Cap,Mid Cap Blend Equities
+MDLL,Daily Mid Cap Bull 2x Shares,Mid Cap Blend Equities
+IWP,iShares Russell Mid-Cap Growth ETF,Mid Cap Growth Equities
+IJK,iShares S&P Mid-Cap 400 Growth ETF,Mid Cap Growth Equities
+VOT,Mid-Cap Growth ETF,Mid Cap Growth Equities
+RFG,S&P Midcap 400 Pure Growth,Mid Cap Growth Equities
+IVOG,S&P Mid-Cap 400 Growth ETF,Mid Cap Growth Equities
+MDYG,SPDR S&P 400 Mid Cap Growth ETF,Mid Cap Growth Equities
+JKH,iShares Morningstar Mid-Cap Growth ETF,Mid Cap Growth Equities
+WBIA,WBI SMID Tactical Growth Shares,Mid Cap Growth Equities
+FNY,Mid Cap Growth AlphaDEX Fund,Mid Cap Growth Equities
+PXMG,Russell Midcap Pure Growth Index,Mid Cap Growth Equities
+IWS,iShares Russell Mid-Cap Value ETF,Mid Cap Value Equities
+VOE,Mid-Cap Value ETF,Mid Cap Value Equities
+IJJ,iShares S&P Mid-Cap 400 Value ETF,Mid Cap Value Equities
+DON,MidCap Dividend Fund,Mid Cap Value Equities
+EZM,MidCap Earnings Fund,Mid Cap Value Equities
+JKI,iShares Morningstar Mid-Cap Value ETF,Mid Cap Value Equities
+MDYV,SPDR S&P 400 Mid Cap Value ETF,Mid Cap Value Equities
+WBIC,WBI SMID Tactical Yield Shares,Mid Cap Value Equities
+IVOV,S&P Mid-Cap 400 Value ETF,Mid Cap Value Equities
+RFV,S&P Midcap 400 Pure Value,Mid Cap Value Equities
+WBIB,WBI SMID Tactical Value Shares,Mid Cap Value Equities
+WBID,WBI SMID Tactical Select Shares,Mid Cap Value Equities
+FNK,Mid Cap Value AlphaDEX Fund,Mid Cap Value Equities
+PXMV,RAFI Fundamental Pure Mid Value Portfolio,Mid Cap Value Equities
+VLSM,Value Line Small- and Mid-Cap High Dividend ETF,Mid Cap Value Equities
+SMDV,Russell 2000 Dividend Growers ETF,Mid Cap Value Equities
+AMLP,Alerian MLP ETF,MLPs
+AMJ,Alerian MLP Index ETN,MLPs
+MLPI,E-TRACS Alerian MLP Infrastructure Index,MLPs
+EMLP,North American Energy Infrastructure Fund,MLPs
+MLPN,X-Links Cushing MLP Infrastructure ETN,MLPs
+IMLP,iPath S&P MLP ETN,MLPs
+AMU,ETRACS Alerian MLP Index ETN,MLPs
+ATMP,Barclays ETN+ Select MLP ETN,MLPs
+MLPA,MLP ETF,MLPs
+YMLP,Yorkville High Income MLP ETF,MLPs
+MLPC,C-Tracks Miller/Howard MLP ETN,MLPs
+MLPX,Global X MLP & Energy Infrastructure ETF,MLPs
+MLPO,S&P MLP ETN,MLPs
+ZMLP,Zacks MLP High Income Shares,MLPs
+MLPY,Cushing MLP High Income Index ETN,MLPs
+OSMS,Barclays OFI SteelPath MLP ETN,MLPs
+YMLI,Yorkville High Income Infrastructure MLP ETF,MLPs
+MLPG,E-TRACS Alerian Natural Gas MLP Index,MLPs
+YGRO,RBC ETN Linked to Yorkville MLP Distribution Growth Leaders Liquid PR Index,MLPs
+AMZA,InfraCap MLP ETF,MLPs
+FMLP,ETRACS Wells Fargo MLP Ex-Energy ETN,MLPs
+ENFR,Alerian Energy Infrastructure ETF,MLPs
+MLPW,E-TRACS Wells Fargo MLP Index,MLPs
+MLPJ,Junior MLP ETF,MLPs
+MINT,Enhanced Short Maturity Strategy Fund,Money Market
+SHV,Short Treasury Bond ETF,Money Market
+BIL,SPDR Barclays 1-3 Month T-Bill ETF,Money Market
+NEAR,Short Maturity Bond ETF,Money Market
+GSY,Enhanced Ultra-Short Bond ETF,Money Market
+PVI,VRDO Tax Free Weekly Portfolio,Money Market
+ULST,SPDR SSgA Ultra Short Term Bond ETF,Money Market
+MBB,iShares MBS ETF,Mortgage Backed Securities
+VMBS,Mortgage-Backed Securities Index Fund,Mortgage Backed Securities
+CMBS,iShares CMBS ETF,Mortgage Backed Securities
+MBG,SPDR Barclays Capital Mortgage Backed Bond ETF,Mortgage Backed Securities
+GNMA,Barclays GNMA Bond Fund,Mortgage Backed Securities
+MBSD,Disciplined Duration MBS Index Fund,Mortgage Backed Securities
+LMBS,Low Duration Mortgage Opportunities ETF,Mortgage Backed Securities
+COBO,USD Covered Bond,Mortgage Backed Securities
+JPIN,Diversified Return International Equity ETF,n/a
+IBMK,iBonds Dec 2022 AMT-Free Muni Bond ETF,n/a
+XLRE,Real Estate Select Sector SPDR Fund,n/a
+MUB,iShares National AMT-Free Muni Bond ETF,National Munis
+SHM,SPDR Barclays Short Term Municipal Bond ETF,National Munis
+HYD,Market Vectors High Yield Municipal Index ETF,National Munis
+TFI,SPDR Barclays Municipal Bond,National Munis
+ITM,Market Vectors-Intermediate Municipal Index ETF,National Munis
+SUB,Short-Term National AMT-Free Muni Bond ETF,National Munis
+PZA,National AMT-Free Municipal Bond Portfolio,National Munis
+BAB,Build America Bond Portfolio,National Munis
+HYMB,SPDR Nuveen S&P High Yield Municipal Bond ETF,National Munis
+SMB,Market Vectors Short Municipal Index ETF,National Munis
+MUNI,Intermediate Municipal Bond Strategy Fund,National Munis
+IBMF,iBonds Sep 2017 AMT-Free Muni Bond ETF,National Munis
+IBME,iBonds Sep 2016 AMT-Free Muni Bond ETF,National Munis
+SHYD,Market Vectors Short High-Yield Municipal Index ETF,National Munis
+MLN,Market Vectors-Long Municipal Index ETF,National Munis
+IBMH,iBonds Sep 2019 AMT-Free Muni Bond ETF,National Munis
+MUAC,iShares 2014 AMT-Free Muni Term ETF,National Munis
+VTEB,Tax-Exempt Bond ETF,National Munis
+IBMI,iBonds Sep 2020 AMT-Free Muni Bond ETF ,National Munis
+SMMU,Short Term Municipal Bond Strategy Fund,National Munis
+XMPT,Market Vectors CEF Municipal Income ETF,National Munis
+BABS,SPDR Nuveen Barclays Capital Build America Bond ETF,National Munis
+MEAR,Short Maturity Municipal Bond ETF,National Munis
+RVNU,db X-trackers Municipal Infrastructure Revenue Bond Fund,National Munis
+PRB,Market Vectors Pre-Refunded Municipal Index ETF,National Munis
+GMMB,Intermediate Municipal Bond ETF,National Munis
+NYF,iShares New York AMT-Free Muni Bond ETF,New York Munis
+PZT,New York AMT-Free Municipal Bond Portfolio,New York Munis
+INY,SPDR Barclays New York Municipal Bond ETF,New York Munis
+USO,United States Oil Fund,Oil & Gas
+OIL,S&P GSCI Crude Oil Tot Ret Idx ETN,Oil & Gas
+UNG,United States Natural Gas Fund LP,Oil & Gas
+DBO,DB Oil Fund,Oil & Gas
+DBE,DB Energy Fund,Oil & Gas
+BNO,United States Brent Oil Fund,Oil & Gas
+UGA,United States Gasoline Fund LP,Oil & Gas
+USL,United States 12 Month Oil,Oil & Gas
+RJN,Rogers Intl Commodity Enrgy ETN,Oil & Gas
+UNL,United States 12 Month Natural Gas Fund,Oil & Gas
+OLO,DB Crude Oil Long ETN,Oil & Gas
+GAZ,DJ-UBS Natural Gas Subindex Total Return ETN,Oil & Gas
+OLEM,Pure Beta Crude Oil ETN,Oil & Gas
+UHN,United States Diesel Heating Oil Fund,Oil & Gas
+UBN,E-TRACS UBS Bloomberg CMCI Energy ETN,Oil & Gas
+ONG,Pure Beta Energy ETN,Oil & Gas
+FUE,MLCX Biofuels Index TR ETN,Oil & Gas
+JJE,DJ-UBS Energy Total Return Sub-Index ETN,Oil & Gas
+DCNG,Seasonal Natural Gas ETN,Oil & Gas
+GLD,SPDR Gold Trust,Precious Metals
+IAU,COMEX Gold Trust,Precious Metals
+SLV,Silver Trust,Precious Metals
+SGOL,Physical Swiss Gold Shares,Precious Metals
+PPLT,Physical Platinum Shares,Precious Metals
+SIVR,Physical Silver Shares,Precious Metals
+PALL,Physical Palladium Shares,Precious Metals
+DGL,DB Gold Fund,Precious Metals
+GLTR,Physical Precious Metal Basket Shares,Precious Metals
+DBP,DB Precious Metals Fund,Precious Metals
+OUNZ,Gold Trust,Precious Metals
+PTM,E-TRACS UBS Long Platinum ETN,Precious Metals
+DBS,DB Silver Fund,Precious Metals
+WITE,Physical White Metal Basket Shares,Precious Metals
+GYEN,Gartman Gold/Yen ETF,Precious Metals
+GEUR,Gartman Gold/Euro ETF,Precious Metals
+UBG,E-TRACS UBS Bloomberg CMCI Gold ETN,Precious Metals
+PGM,DJ UBS Platinum Trust Sub-Index ETN,Precious Metals
+USV,E-TRACS UBS Bloomberg CMCI Silver ETN,Precious Metals
+JJP,Dow Jones-UBS Precious Metals Total Return Sub-Index ETN,Precious Metals
+BLNG,Pure Beta Precious Metals ETN,Precious Metals
+GLDI,X-Links Gold Shares Covered Call ETN,Precious Metals
+SLVO,X-Links Silver Shares Covered Call ETN,Precious Metals
+PFF,iShares U.S. Preferred Stock ETF,Preferred Stock/Convertible Bonds
+PGX,Preferred Portfolio,Preferred Stock/Convertible Bonds
+CWB,SPDR Barclays Capital Convertible Bond ETF,Preferred Stock/Convertible Bonds
+PGF,Financial Preferred Portfolio,Preferred Stock/Convertible Bonds
+FPE,First Trust Preferred Securities and Income ETF,Preferred Stock/Convertible Bonds
+VRP,Variable Rate Preferred Portfolio,Preferred Stock/Convertible Bonds
+PSK,SPDR Wells Fargo Preferred Stock ETF,Preferred Stock/Convertible Bonds
+PFXF,Market Vectors Preferred Securities ex Financials ETF,Preferred Stock/Convertible Bonds
+SPFF,SuperIncome Preferred ETF,Preferred Stock/Convertible Bonds
+IPFF,iShares International Preferred Stock ETF,Preferred Stock/Convertible Bonds
+VNQ,REIT ETF,Real Estate
+IYR,iShares U.S. Real Estate ETF,Real Estate
+ICF,iShares Cohen & Steers REIT ETF,Real Estate
+RWR,SPDR DJ Wilshire REIT ETF,Real Estate
+SCHH,Schwab U.S. REIT ETF,Real Estate
+REM,iShares Mortgage Real Estate Capped ETF,Real Estate
+REZ,iShares Residential Real Estate Capped ETF,Real Estate
+FRI,S&P REIT Index Fund,Real Estate
+KBWY,KBW Premium Yield Equity REIT Portfolio,Real Estate
+MORT,Market Vector Mortgage REIT Income ETF,Real Estate
+ROOF,IQ US Real Estate Small Cap ETF,Real Estate
+FTY,iShares Real Estate 50 ETF,Real Estate
+PSR,Active U.S. Real Estate Fund,Real Estate
+FREL,MSCI Real Estate Index ETF,Real Estate
+WREI,Wilshire US REIT ETF,Real Estate
+SRET,SuperDividend REIT ETF,Real Estate
+EWRE,S&P 500 Equal Weight Real Estate ETF,Real Estate
+IWM,iShares Russell 2000 ETF,Small Cap Blend Equities
+IJR,Core S&P Small-Cap ETF,Small Cap Blend Equities
+VB,Small-Cap ETF,Small Cap Blend Equities
+SCHA,Schwab U.S. Small-Cap ETF,Small Cap Blend Equities
+PRFZ,FTSE RAFI US 1500 Small-Mid Portfolio,Small Cap Blend Equities
+IWC,iShares Micro-Cap ETF,Small Cap Blend Equities
+FYX,Small Cap Core AlphaDEX Fund,Small Cap Blend Equities
+VTWO,Russell 2000 ETF,Small Cap Blend Equities
+DWAS,DWA SmallCap Technical Leaders Portfolio,Small Cap Blend Equities
+SLY,SPDR S&P 600 Small Cap ETF,Small Cap Blend Equities
+RWJ,Small Cap Fund,Small Cap Blend Equities
+VIOO,S&P Small-Cap 600 ETF,Small Cap Blend Equities
+JKJ,iShares Morningstar Small-Cap ETF,Small Cap Blend Equities
+XSLV,S&P SmallCap Low Volatility Portfolio,Small Cap Blend Equities
+TWOK,SPDR Russell 2000 ETF,Small Cap Blend Equities
+FDM,DJ Select MicroCap Index Fund,Small Cap Blend Equities
+EWRS,Russell 2000 Equal Weight ETF,Small Cap Blend Equities
+SMLV,SPDR Russell 2000 Low Volatility ETF,Small Cap Blend Equities
+DGRS,WisdomTree U.S. SmallCap Dividend Growth Fund,Small Cap Blend Equities
+CSF,U.S. Discovery 500 Enhanced Volatility Weighted Index ETF,Small Cap Blend Equities
+PZI,Zacks Micro Cap,Small Cap Blend Equities
+WMCR,Wilshire Micro-Cap ETF,Small Cap Blend Equities
+EQWS,Russell 2000 Equal Weight Portfolio,Small Cap Blend Equities
+CSA,US Small Cap 500 Volatility Weighted Index ETF,Small Cap Blend Equities
+SMLL,Small Cap Bull 2x Shares,Small Cap Blend Equities
+ZSML,Zacks Earnings Small-Cap U.S. Index Fund,Small Cap Blend Equities
+GURX,GURU Small Cap Index ETF,Small Cap Blend Equities
+IWO,iShares Russell 2000 Growth ETF,Small Cap Growth Equities
+VBK,Small-Cap Growth ETF,Small Cap Growth Equities
+IJT,iShares S&P Small-Cap 600 Growth ETF,Small Cap Growth Equities
+SLYG,SPDR S&P 600 Small Cap Growth ETF,Small Cap Growth Equities
+RZG,S&P Smallcap 600 Pure Growth,Small Cap Growth Equities
+VTWG,Russell 2000 Growth ETF,Small Cap Growth Equities
+JKK,iShares Morningstar Small-Cap Growth ETF,Small Cap Growth Equities
+VIOG,S&P Small-Cap 600 Growth ETF,Small Cap Growth Equities
+FYC,Small Cap Growth AlphaDEX Fund,Small Cap Growth Equities
+RSCO,SPDR Russell Small Cap Completeness ETF,Small Cap Growth Equities
+FFTY,Innovator IBD 50 Fund,Small Cap Growth Equities
+PXSG,RAFI Fundamental Pure Small Growth Portfolio,Small Cap Growth Equities
+IWN,iShares Russell 2000 Value ETF,Small Cap Value Equities
+VBR,Small-Cap Value ETF,Small Cap Value Equities
+IJS,iShares S&P Small-Cap 600 Value ETF,Small Cap Value Equities
+DES,SmallCap Dividend Fund,Small Cap Value Equities
+FNDA,Schwab Fundamental U.S. Small Company Index ETF,Small Cap Value Equities
+SLYV,SPDR S&P 600 Small Cap Value ETF,Small Cap Value Equities
+EES,SmallCap Earnings Fund,Small Cap Value Equities
+JKL,iShares Morningstar Small-Cap Value ETF,Small Cap Value Equities
+RZV,S&P Smallcap 600 Pure Value,Small Cap Value Equities
+VIOV,S&P Small-Cap 600 Value ETF,Small Cap Value Equities
+VTWV,Russell 2000 Value ETF,Small Cap Value Equities
+PXSV,RAFI Fundamental Pure Small Value Portfolio,Small Cap Value Equities
+FYT,Small Cap Value AlphaDEX Fund,Small Cap Value Equities
+IESM,Enhanced U.S. Small-Cap ETF,Small Cap Value Equities
+CSB,US Small Cap High Dividend 100 Volatility Weighted Index ETF,Small Cap Value Equities
+SMLF,FactorSelect MSCI USA Small-Cap ETF,Small Cap Value Equities
+TDV,db-X 2040 Target Date Fund,Target Retirement Date
+TDN,db-X 2030 Target Date Fund,Target Retirement Date
+XLK,Technology Select Sector SPDR,Technology Equities
+VGT,Information Tech ETF,Technology Equities
+FDN,DJ Internet Index Fund,Technology Equities
+IYW,iShares U.S. Technology ETF,Technology Equities
+HACK,ISE Cyber Security ETF,Technology Equities
+IGV,iShares North American Tech-Software ETF,Technology Equities
+IGM,iShares North American Tech ETF,Technology Equities
+IXN,iShares Global Tech ETF,Technology Equities
+RYT,S&P Equal Weight Technology ETF,Technology Equities
+FXL,Technology AlphaDEX Fund,Technology Equities
+XT,Exponential Technologies ETF,Technology Equities
+SKYY,ISE Cloud Computing Index Fund,Technology Equities
+TDIV,NASDAQ Technology Dividend Index Fund,Technology Equities
+MTK,SPDR MS Technology,Technology Equities
+SOXX,PHLX SOX Semiconductor Sector Index Fund,Technology Equities
+FTEC,MSCI Information Technology Index ETF,Technology Equities
+PSCT,S&P SmallCap Information Technology Portfolio,Technology Equities
+QTEC,NASDAQ-100-Technology Sector Index Fund,Technology Equities
+SMH,Market Vectors Semiconductor ETF,Technology Equities
+PNQI,Nasdaq Internet Portfolio,Technology Equities
+PTF,DWA Technology Momentum,Technology Equities
+XSD,SPDR S&P Semiconductor ETF,Technology Equities
+IGN,iShares North American Tech-Multimedia Networking ETF,Technology Equities
+PSJ,Dynamic Software,Technology Equities
+ROBO,Robo-Stox Global Robotics and Automation Index ETF,Technology Equities
+CIBR,NASDAQ CEA Cybersecurity ETF,Technology Equities
+SOCL,Social Media Index ETF,Technology Equities
+FCOM,MSCI Telecommunications Services Index ETF,Technology Equities
+PSI,Dynamic Semiconductors,Technology Equities
+CQQQ,China Technology ETF,Technology Equities
+XSW,SPDR S&P Software & Services ETF,Technology Equities
+PXQ,Dynamic Networking,Technology Equities
+QQQC,NASDAQ China Technology ETF,Technology Equities
+ARKW,Web X.0 ETF,Technology Equities
+IPK,SPDR S&P International Technology Sector ETF,Technology Equities
+ARKK,Ark Innovation ETF,Technology Equities
+IPAY,ISE Mobile Payments ETF,Technology Equities
+BDAT,ISE Big Data ETF,Technology Equities
+ITEQ,BlueStar TA-BIGITech Israel Technology,Technology Equities
+AGG,Core Total U.S. Bond Market ETF,Total Bond Market
+BND,Total Bond Market ETF,Total Bond Market
+BSV,Short-Term Bond ETF,Total Bond Market
+BIV,Intermediate-Term Bond ETF,Total Bond Market
+BNDX,Total International Bond ETF,Total Bond Market
+BOND,Total Return Exchange-Traded Fund,Total Bond Market
+GVI,iShares Intermediate Government/Credit Bond ETF,Total Bond Market
+SCHZ,Schwab U.S. Aggregate Bond ETF,Total Bond Market
+BLV,Long-Term Bond ETF,Total Bond Market
+TOTL,SPDR DoubleLine Total Return Tactical ETF,Total Bond Market
+LAG,SPDR Barclays Aggregate Bond ETF,Total Bond Market
+PCEF,CEF Income Composite Portfolio,Total Bond Market
+RIGS,RiverFront Strategic Income Fund,Total Bond Market
+ISTB,Core Short-Term U.S. Bond ETF,Total Bond Market
+IUSB,Core Total USD Bond Market ETF,Total Bond Market
+VBND,Core U.S. Bond Strategy ETF,Total Bond Market
+FLRN,SPDR Barclays Capital Investment Grade Floating Rate ETF,Total Bond Market
+GBF,iShares Government/Credit Bond ETF,Total Bond Market
+NFLT,Virtus Newfleet Multi-Sector Unconstrained Bond ETF,Total Bond Market
+FTSM,Enhanced Short Maturity ETF,Total Bond Market
+ILTB,Core Long-Term U.S. Bond ETF,Total Bond Market
+FBND,Total Bond ETF,Total Bond Market
+INC,U.S. Fixed Income Balanced Risk ETF,Total Bond Market
+HOLD,Sage Core Reserves ETF,Total Bond Market
+AGZD,Barclays U.S. Aggregate Bond Zero Duration Fund,Total Bond Market
+FWDB,Madrona Forward Global Bond ETF,Total Bond Market
+AGND,Barclays U.S. Aggregate Bond Negative Duration Fund,Total Bond Market
+BYLD,Yield Optimized Bond ETF,Total Bond Market
+GMTB,Core Bond ETF,Total Bond Market
+AGGY,Barclays U.S. Aggregate Bond Enhanced Yield Fund,Total Bond Market
+UBND,Western Asset Unconstrained Bond Fund,Total Bond Market
+IYT,iShares Transportation Average ETF,Transportation Equities
+XTN,SPDR S&P Transportation ETF,Transportation Equities
+SEA,Shipping ETF ,Transportation Equities
+XLU,Utilities Select Sector SPDR,Utilities Equities
+VPU,Utilities ETF,Utilities Equities
+IGF,iShares Global Infrastructure ETF,Utilities Equities
+IDU,iShares U.S. Utilities ETF,Utilities Equities
+FXU,Utilities AlphaDEX Fund,Utilities Equities
+JXI,iShares Global Utilities ETF,Utilities Equities
+FUTY,MSCI Utilities Index ETF,Utilities Equities
+GHII,S&P High Income Infrastructure ETF,Utilities Equities
+RYU,S&P Equal Weight Utilities ETF,Utilities Equities
+GII,SPDR FTSE/Macquarie GI 100 ETF,Utilities Equities
+EMIF,S&P Emerging Markets Infrastructure Index Fund,Utilities Equities
+INXX,India Infrastructure ETF,Utilities Equities
+IPU,SPDR S&P International Utilities Sector ETF,Utilities Equities
+PXR,Global Emerging Markets Infrastructure,Utilities Equities
+PUI,DWA Utilities Momentum,Utilities Equities
+TOLZ,DJ Brookfield Global Infrastructure ETF,Utilities Equities
+DBU,Global ex-U.S. Utility Fund,Utilities Equities
+PSCU,S&P SmallCap Utilities Portfolio,Utilities Equities
+GRID,NASDAQ Clean Edge Smart Grid Infrastructure Index Fund,Utilities Equities
+BRXX,Brazil Infrastructure Index Fund,Utilities Equities
+DBIF,S&P Hedged Global Infrastructure ETF,Utilities Equities
+UTES,Reaves Utilities ETF,Utilities Equities
+VXX,S&P 500 VIX Short-Term Futures ETN,Volatility
+VIXY,VIX Short-Term Futures ETF,Volatility
+VXZ,S&P 500 VIX Mid-Term Futures ETN,Volatility
+VIXM,VIX Mid-Term Futures ETF,Volatility
+XVIX,E-TRACS Daily Long-Short VIX ETN,Volatility
+VIIX,VIX Short-Term ETN,Volatility
+CVOL,C-Tracks ETN Citi Volatility Index Total Return ,Volatility
+VIIZ,VIX Medium-Term ETN,Volatility
+VXUP,Spot CBOE VIX Up Class Shares,Volatility
+PHDG,PowerShares S&P 500 Downside Hedged Portfolio,Volatility Hedged Equity
+VQT,Barclays ETN+ S&P VEQTOR ETN,Volatility Hedged Equity
+SPXH,VelocityShares Volatility Hedged Large Cap ETF,Volatility Hedged Equity
+TRSK,VelocityShares Tail Risk Hedged Large Cap ETF,Volatility Hedged Equity
+XVZ,S&P 500 Dynamic VIX ETN,Volatility Hedged Equity
+VQTS,ETRACS S&P 500 VEQTOR Switch ETN,Volatility Hedged Equity
+VIXH,CBOE S&P 500 VIX Tail Hedge Fund,Volatility Hedged Equity
+PHO,Water Resource Portfolio,Water Equities 
+CGW,S&P Global Water Index ETF ,Water Equities 
+PIO,Global Water Portfolio,Water Equities 
+FIW,ISE Water Index Fund,Water Equities 
