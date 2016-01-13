@@ -5,7 +5,7 @@ import pymysql
 file = open("names.csv")
 csv_file = csv.reader(file)
 
-cnx = pymysql.connect(user='rouyang1', password='hashish',
+cnx = pymysql.connect(user='rouyang1', password='',
                               host='localhost',
                               database='quantcode')
 cnx.autocommit(True)

@@ -8,7 +8,7 @@ import mysql.connector
 import quantstats as qs
 import sp500
 
-cnx = mysql.connector.connect(user='rouyang1', password='hashish',
+cnx = mysql.connector.connect(user='rouyang1', password='',
                               host='localhost',
                               database='quantcode')
 cursor = cnx.cursor()

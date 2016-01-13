@@ -19,7 +19,7 @@ import quantcode.quantstats as qs
 
 warnings.filterwarnings('error')
 
-cnx = mysql.connector.connect(user='rouyang1', password='hashish',
+cnx = mysql.connector.connect(user='rouyang1', password='',
                               host='localhost',
                               database='quantcode')
 cursor = cnx.cursor()
